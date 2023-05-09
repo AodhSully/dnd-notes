@@ -16,7 +16,7 @@ Cracked floor after reading the book
 	you have 24 hours!!!!
 
 [[Mindarion]]
-	hello piffington
+	hello [[piff]]ington
 	i regret to inform you that I cannot return
 	I am very sorry for running off
 	I do not have a scroll

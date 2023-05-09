@@ -10,7 +10,7 @@ Creepy old dude
 stone
 
 [[Green Daddy]]
-	*good day mr piff
+	*good day mr [[piff]]
 	my friends gave you a proposal
 	if interested make my way to the dark forest
 	join us

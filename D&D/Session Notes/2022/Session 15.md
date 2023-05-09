@@ -80,7 +80,7 @@ slightly to the right is ordered off by a bit of rope
 
 Escorting high elf
 
-[[Mindarian]]
+[[Mindarion]]
 High elf
 blond
 blue eyes

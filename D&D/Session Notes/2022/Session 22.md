@@ -57,4 +57,4 @@ Mace
 morning star
 3 maces
 
-Shadow dragon might be able to hear Piff sometimes
+Shadow dragon might be able to hear [[Piff]] sometimes

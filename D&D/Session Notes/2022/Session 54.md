@@ -80,7 +80,7 @@ Group 3: [[Enva]]/[[Piff]]/[[Aranalle]]
 All brought to palace - escorted to dungeons  
 Magic and other items confiscated  
 [[Piff]] lies about being noble to also get a separate cell  
-[[Aranalle]] meets vampire who offers deal - teleports out to guild - meets antigone  
+[[Aranalle]] meets vampire who offers deal - teleports out to guild - meets [[Antigone]]  
 [[Piff]] has memory modified to believe they started the fight  
 High elf comes to meet [[piff]] - knows he’s not noble  
 [[Enva]]s elf buddy comes to interview her - enva likely to just be banished  

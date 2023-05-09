@@ -14,8 +14,17 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "81f44c10c44a8800",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kills.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kills.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,17 +172,25 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "21a3946c57f4a0c7",
+  "active": "81f44c10c44a8800",
   "lastOpenFiles": [
+    "D&D/Session Notes/2021/Session 5.md",
+    "D&D/Session Notes/2023/Session 59.md",
+    "D&D/Session Notes/2022/Session 22.md",
+    "D&D/Session Notes/2022/Session 54.md",
+    "D&D/NPCs/Good NPC/Antigone.md",
+    "D&D/Session Notes/2022/Session 17.md",
+    "D&D/PCs/Thunderfucks/Enva.md",
+    "Mindarian.md",
+    "D&D/Session Notes/2022/Session 15.md",
+    "D&D/Session Notes/2022/Session 47.md",
+    "D&D/Session Notes/2023/Session 71.md",
     "D&D/Session Notes/2021/Session 8.md",
     "D&D/PCs/Deckheads/Remmet Traivan.md",
     "2023-05-09.md",
     "D&D/Session Notes/2021/Session 1.md",
-    "D&D/Session Notes/2022/Session 47.md",
-    "D&D/Session Notes/2022/Session 17.md",
     "D&D/NPCs/Bad NPC/Lord jeff.md",
     "D&D/Items/Tear drop gem.md",
-    "D&D/Session Notes/2023/Session 71.md",
     "nat1.md",
     "Kills.md",
     "D&D/Races/basalisk.md",
@@ -187,14 +200,6 @@
     "D&D/Session Notes/2021/Session 10.md",
     "D&D/PCs/Thunderfucks/Ollukaar.md",
     "D&D/PCs/Thunderfucks/Tardon.md",
-    "D&D/PCs/Thunderfucks/Rusty.md",
-    "D&D/PCs/Thunderfucks/Py.md",
-    "D&D/Items/Deck of Many Things.md",
-    "D&D/Races/Aracocra.md",
-    "D&D/Places/Aracocra Settlement.md",
-    "D&D/Templates/Session.md",
-    "D&D/Templates/NPC.md",
-    "D&D/Untitled 1.md",
     "D&D/Templates"
   ]
 }
