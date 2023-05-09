@@ -1,0 +1,125 @@
+DATE: 2022/01/15
+
+Armoury Bow for [[Enva]]
+-150gp to Enva
+
+Hunt Troll in the mountains
+Spine + fist
+No horses spines
+
+#Basilisk Basilisk
+dangerous spines along the back
+8 legged
+can turn you to stone
+poison bite
+Caves
+bone ribs
+
+Rumours of weapons of a deep cold black metal
+No shine to them, almost invisible in the dark
+Harvested from a #dragon
+
+250 total
+
+made of a shadow dragon
+"+125 if find weapon or scales
+
+shiny gem
+looks like my ruby
+
+robe with hatches
+
+blindy gem
+
+250
+
+High elf
+
+[[Swift Thunder]]
+
+Speed of sound
+
+![](data:image/png;base64,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 "Image")
+
+wood elf
+
+Need to find cloaks
+
+[[Serilla]] high elf
+
+embroiderer air ginassy??
+
+human
+
+terrance
+
+terribus
+
+earthquaker destroyer of beasts
+
+Taylor in [[Eldor]]
+
+Trials of glory [[Swift Thunder]]
+
+**Quests**
+
+#quest Find an ancient stronghold no idea where it is
+
+#quest escort back to beldor
+
+#quest old quest --- old man needs help with rat problem
+
+#quest missing persons quest
+man's friends seem to be disappearing  
+Guards say that it is totally normal
+
+slightly to the right is ordered off by a bit of rope
+
+
+-----------------------------------------------
+
+Escorting high elf
+
+[[Mindarian]]
+High elf
+blond
+blue eyes
+spritely
+Enthusiastic fashion taste
+Friendly - too friendly??
+
+Back to [[Beldor]]
+
+
+[[Sebastian]]
+human wizard
+knew [[Dormond]]
+striking young man
+
+frog
+
+Bastion IV
+
+#Book - [[Minadrion]] magical misadventures
+
+<---- READ
+
+talking about her father & the artifact
+
+Shadow weapons made from shadow #dragon slain 100 years ago
+
+scroll of enhance ability 2 level
+
+scroll of protection from energy 3 level
+
+[[Enva]] owes 100 GP - paid back 50
+
+[[Areen]] - Greek Goddess of Peace Temple
+
+in fighting pit
+
+[[Ollukaar]] beat Grek, bit of a dick
+
+Avengers
+
+
