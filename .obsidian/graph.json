@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "antigone OR enva OR piff OR Ollukaar",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -42,10 +42,10 @@
   "nodeSizeMultiplier": 1.46536458333333,
   "lineSizeMultiplier": 1.05703125,
   "collapse-forces": false,
-  "centerStrength": 0.364583333333333,
+  "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 0.119791666666667,
-  "linkDistance": 30,
-  "scale": 0.03901844231062375,
+  "linkStrength": 0.609375,
+  "linkDistance": 500,
+  "scale": 0.16626321674656497,
   "close": false
 }

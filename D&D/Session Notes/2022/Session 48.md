@@ -1,6 +1,6 @@
 DATE: 28/09/2022
 
-#item cart from a noble in [[Thraldur]] 
+#item #cart from a noble in [[Thraldur]] 
 
 #item mana cristals
 

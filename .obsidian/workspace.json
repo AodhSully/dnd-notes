@@ -16,15 +16,33 @@
             }
           },
           {
-            "id": "81f44c10c44a8800",
+            "id": "6dc00cc0d41d8d91",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2023/Session 66.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19452f58cd2e0412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2022/Session 41 - Big Yin 6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tear",
+                "query": "cart",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/Session Notes/2022/Session 41 - Big Yin 6.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/Session Notes/2022/Session 41 - Big Yin 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/Session Notes/2022/Session 41 - Big Yin 6.md"
+              }
             }
           },
           {
@@ -172,16 +195,25 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "81f44c10c44a8800",
+  "active": "19452f58cd2e0412",
   "lastOpenFiles": [
+    "D&D/Session Notes/2023/Session 66.md",
+    "Mindarian.md",
+    "D&D/Session Notes/2022/Session 49.md",
+    "D&D/Session Notes/2022/Session 48.md",
+    "D&D/PCs/Thunderfucks/Enva.md",
+    "D&D/plugins/fantasy-calendar/data.json",
+    "D&D/plugins/fantasy-calendar",
+    "D&D/plugins",
+    "D&D/PCs/Thunderfucks/Tardon.md",
+    "D&D/PCs/Thunderfucks/Rusty.md",
+    "D&D/Session Notes/2022/Session 23.md",
     "D&D/Session Notes/2021/Session 5.md",
     "D&D/Session Notes/2023/Session 59.md",
     "D&D/Session Notes/2022/Session 22.md",
     "D&D/Session Notes/2022/Session 54.md",
     "D&D/NPCs/Good NPC/Antigone.md",
     "D&D/Session Notes/2022/Session 17.md",
-    "D&D/PCs/Thunderfucks/Enva.md",
-    "Mindarian.md",
     "D&D/Session Notes/2022/Session 15.md",
     "D&D/Session Notes/2022/Session 47.md",
     "D&D/Session Notes/2023/Session 71.md",
@@ -194,12 +226,6 @@
     "nat1.md",
     "Kills.md",
     "D&D/Races/basalisk.md",
-    "D&D/Places/Big Mountain.md",
-    "D&D/PCs/Deckheads/Deckheads.md",
-    "D&D/Session Notes/2023/Session 58.md",
-    "D&D/Session Notes/2021/Session 10.md",
-    "D&D/PCs/Thunderfucks/Ollukaar.md",
-    "D&D/PCs/Thunderfucks/Tardon.md",
     "D&D/Templates"
   ]
 }
