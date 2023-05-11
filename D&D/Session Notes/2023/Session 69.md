@@ -8,7 +8,7 @@ Overseer, Archibald, Dragon & Lich Slayer, [[Piff]]ington III
 
 [[Enva]] and [[Bryne]]s 1st impressions of eachother.... Not the best
 
-Attune to the staff - [[Oraculum]]
+[[Piff]] Attune to the staff - [[Oraculum]]
 	the staff starts to hum
 	etchings glow a bit
 	head feels fuzzy

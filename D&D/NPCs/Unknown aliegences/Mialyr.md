@@ -1,0 +1,1 @@
+works at the [[Adventurers guild]] in [[Thraldur]]

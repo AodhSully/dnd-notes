@@ -1,0 +1,1 @@
+has the [[Lych]]s cape

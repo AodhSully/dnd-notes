@@ -14,7 +14,7 @@ DOOMED
 Mage
 he is in league with [[black daddy]]!!!!!!!  
   
-The archmage Cyril [[Kyburn]] is an undead [[lych]] (theory)
+The archmage Cyril [[Kyburn]] is an undead [[Lych]] (theory)
 
 [[Hemlock Foxglove]]
 [[Beldor]] the jail in [[beldor]]

@@ -63,7 +63,7 @@ Pushed lil #baby dragon into the well of wonder
 	should you answer now  
 	I can smell you in there
 
-The [[lych]] is in a stronghold up north
+The [[Lych]] is in a stronghold up north
 It is hidden
 I will be sure to say hello to your cousin for you
 

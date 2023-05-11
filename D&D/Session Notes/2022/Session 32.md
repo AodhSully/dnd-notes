@@ -46,4 +46,4 @@ cloak o protection
 
 [[enva]]
 ring o protection
-#shadow [[Rapier]] has awakened????
+#shadow [[Shadow Rapier]] has awakened????

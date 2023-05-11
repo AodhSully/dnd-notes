@@ -104,8 +104,8 @@ brand on chest #shadow-dragon logo
 note - dagger
 
 #Note says:
-	Dear Mr Piffington  
-	if our location was right my acolite should have found you shortly after we spoke  
+	Dear Mr [[Piff]]ington  
+	if our location was right my #acolite should have found you shortly after we spoke  
 	if you managed to survive, consider him your final warning  
 	Hugs and kisses  
 	[[Green Daddy]]

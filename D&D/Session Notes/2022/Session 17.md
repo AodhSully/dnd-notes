@@ -90,7 +90,7 @@ headed north to look at dwarven stronghold
 
 [[Enva]] & [[Antigone]] aquard love quest?
 
-#Basilisk
+[[Basilisk]]
 Subterranean
 
 Fancy bottle of wine for the couple
@@ -120,4 +120,4 @@ smashed an alchemist fire bottle
 #race Wood Elf
 #Where [[Beldor]] - Bridge to the north
 [[Eryl]]s new bitch  
-From near [[Forlyn]]
+From near [[Forlyn]] #place 

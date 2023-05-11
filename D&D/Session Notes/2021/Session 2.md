@@ -24,8 +24,8 @@ Fucked me
 Enemies DC
 Bugs hit < 14
 
-Reached the cross roads - [[Pathcross]]
-Town [[Pathcross]]
+Reached the cross roads - [[Pathcross]] #place 
+Town [[Pathcross]] #place 
 
 
 

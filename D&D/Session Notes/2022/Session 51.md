@@ -16,9 +16,9 @@ towns found on map called
 	travells alot - no fixed abode
 	you could simply finsih it before it starts
 	there is great danger coming
-	the [[lych]] [[Kyburn]] is on his way
+	the [[Lych]] [[Kyburn]] is on his way
 	aquilo melenos
-	surprised by the mention of a [[lych]]
+	surprised by the mention of a [[Lych]]
 	royal vault - interesting!
 	fairly sure I know something thats in there
 	ask about the black market

@@ -15,7 +15,7 @@ adepth
 
 13 names
 
-[[Order of knights]]
+[[Order of knights]] #history 
 1. Felmarsh Aetian 
 2. Lyrion Claudiir
 3. Kyburne Reguli
@@ -31,10 +31,10 @@ adepth
 13. Vairis Lyrion
 
 
-[[Order of knights]]
-not well liked
-inquisitors of the king
-purged the kingdom of divine worshipers & arcane casters
+[[Order of knights]] #history 
+	not well liked
+	inquisitors of the king
+	purged the kingdom of divine worshipers & arcane casters
 
 
 FOUND WEAPONS

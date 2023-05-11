@@ -1,1 +1,1 @@
-AKA the [[lych]]
+AKA the [[Lych]]

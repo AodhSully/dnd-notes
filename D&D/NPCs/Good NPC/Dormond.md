@@ -1,0 +1,1 @@
+wizzard died fighting [[Green Daddy]] with the [[Deckheads]]

@@ -9,7 +9,7 @@ in the bar
 Old sleepy lady
 swapped out her gold for copper
 
-Friends with [[Peg]]
+BFF with [[Peg]]
 [[Piff]]s new patron
 
 

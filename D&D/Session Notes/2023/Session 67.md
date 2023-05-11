@@ -9,7 +9,7 @@ wolf mask on one
 white fox mask on the other
 
 [[Tury]] - Human - North of [[Crystwy]]
-Told us there is a [[lych]]s castle - stay away
+Told us there is a [[Lych]]s castle - stay away
 
 [[Py]] wants to be cremated
 

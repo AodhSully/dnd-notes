@@ -52,7 +52,7 @@ Theres hapenings in the [[Dark Forest]]. There might be a [[Fey]] issue. A bunch
 
 a few [[Fey]] showed up to [[Thraldur]] and said they should be in charge
 
-inform the [[Aracocra]] that it might be worth keeping an eye on the "abandoned keep" as it probably belongs to the [[lych]]
+inform the [[Aracocra]] that it might be worth keeping an eye on the "abandoned keep" as it probably belongs to the [[Lych]]
 
 Highest peak is near by the [[Aracocra Settlement]]
 
