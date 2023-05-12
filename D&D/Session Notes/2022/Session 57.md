@@ -1,6 +1,6 @@
 DATE: 2022/12/07
 
-[[Lord Zericks]] is DED - killed by Aranelle
+[[Lord Zericks]] is DED - killed by [[Aranelle]]
 
 [[Rusty]] down
 Fell off the wall

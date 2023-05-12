@@ -19,7 +19,7 @@ The [[Tear drop gem]] is salty and smells like the ocean
 		Total for the lot - 6500
 		We got the lot
 
-[[Aranalle]] casts identify object on the [[Tear drop gem]] 
+[[Aranelle]] casts identify object on the [[Tear drop gem]] 
 It can cast modify memory if attuned to it
 has some form of enchantment
 unknown lingering effect
@@ -30,7 +30,7 @@ You can breath water
 can cast tidal wave
 +1 to attack & damage rolls
 can also give true sight
-as [[Aranalle]] itentifys it it starts to get clearer and she can hear crying
+as [[Aranelle]] itentifys it it starts to get clearer and she can hear crying
 	maybe its the last person who attuned to it
 
 [[Items]] [[Aracocra Settlement]] Armoury
@@ -58,7 +58,7 @@ Highest peak is near by the [[Aracocra Settlement]]
 
 Something to do with a lost party member
 
-[[Rusty]] thinks that we should cut [[Deckheads]] hands off for trying to take [[Aranalle]]s cloak
+[[Rusty]] thinks that we should cut [[Deckheads]] hands off for trying to take [[Aranelle]]s cloak
 
 [[Ollukaar]] #quotes "***If they trimmed back some of these trees and foliage, it would make this mountain look a lot bigger***"
 

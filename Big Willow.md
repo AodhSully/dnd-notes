@@ -1,1 +1,1 @@
-[[Ollukaar]] and [[Aranalle]] #quest 
+[[Ollukaar]] and [[Aranelle]] #quest 

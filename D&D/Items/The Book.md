@@ -1,2 +1,2 @@
-fucked with [[Aranalle]]
+fucked with [[Aranelle]]
 [[Jock]] has it now

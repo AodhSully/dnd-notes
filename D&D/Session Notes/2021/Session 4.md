@@ -120,7 +120,7 @@ Waves of Brass
 
 [[Eryl]] - gets the fancy booze - glowing runes on the bottle
 
-[[Kenkew]] - cannot do creative thought - they mimic words/phrases
+[[Kenku]] - cannot do creative thought - they mimic words/phrases
 Crow bartender - "What drink will you have"
 
 [[Eryl]]

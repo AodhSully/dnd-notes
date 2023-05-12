@@ -18,12 +18,12 @@ The #book
 The book wrecks things it touches
 [[Antigone]] tries to take the book
 
-[[Ollukaar]] confonts [[Aranalle]] about the book
+[[Ollukaar]] confonts [[Aranelle]] about the book
 
 [[The Book]]
 	Nature can’t abide the book’s presence. Ordinary plants wither in its presence, animals are unwilling to approach it, and the book gradually destroys whatever it touches. Even stone cracks and turns to powder if the book rests on it long enough.
 
-[[Aranalle]]s patron ---> The great old one
+[[Aranelle]]s patron ---> The great old one
 Steve IS GONE! :(
 
 Days since [[Eryl]] has gone. 5

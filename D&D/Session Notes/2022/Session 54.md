@@ -11,7 +11,7 @@ Real [[Cedric]] and [[Py]] looking around a tavern
 Everyone is apparently gathering at the gate because of the comotion at the gate
 DONT DRINK THE WATER
 
-Strange dude at [[Aranalle]]s cage
+Strange dude at [[Aranelle]]s cage
 I could help or be an enemy
 
 Semlow
@@ -40,13 +40,13 @@ Olly adresses the crown and drops the head he has
 
 Female high elf - blonde
 
-[[Cliera siladele]]
+[[Cliera Siladele]]
 Told mostly the truth as far as im aware, passed a deception check
 Immense heat through the corridorr
 silver cepter with an orb at the top
 phoenix on the breast late
-[[Royals of Valour]]
-Queen aspen Valaren
+[[Royals of Valar]]
+[[Queen Aspen Valaren]]
 [[Solace]] sends his regards
 
 #item a single wind chime left with [[Enva]]
@@ -75,12 +75,12 @@ Court call for purge on group
 Rest of group enter guild  
   
   
-Group 3: [[Enva]]/[[Piff]]/[[Aranalle]]  
+Group 3: [[Enva]]/[[Piff]]/[[Aranelle]]  
 [[Enva]] alone in cell - because noble - ransom  
 All brought to palace - escorted to dungeons  
 Magic and other items confiscated  
 [[Piff]] lies about being noble to also get a separate cell  
-[[Aranalle]] meets vampire who offers deal - teleports out to guild - meets [[Antigone]]  
+[[Aranelle]] meets vampire who offers deal - teleports out to guild - meets [[Antigone]]  
 [[Piff]] has memory modified to believe they started the fight  
 High elf comes to meet [[piff]] - knows he’s not noble  
 [[Enva]]s elf buddy comes to interview her - enva likely to just be banished  

@@ -10,7 +10,7 @@ Gave Ring of Spell Storing to [[Tardon]]
 
 Has level 3 & level 2 Chromatic Orb in it
 
-[[Aranalle]]
+[[Aranelle]]
 High elf intern
 Hair like mine - but black streak
 Has pet snake - No name
@@ -24,7 +24,7 @@ Image found on parchment
 ALL THE EGGS AND BACON!!!!
 
 Feeding the homeless cos we gud
-Gave staff of charming to [[Aranalle]]
+Gave staff of charming to [[Aranelle]]
 
 #TODO Go back to Camter
 #TODO contact the dead

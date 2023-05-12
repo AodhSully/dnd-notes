@@ -25,7 +25,7 @@ thinking of bodies in basement
 
 Mystery #book with no markings
 
-#Book about a lord named [[Zericks]]
+#Book about a lord named [[Lord Zericks]]
 owned a rapier... super old
 found in the dark forest
 remance of his manor

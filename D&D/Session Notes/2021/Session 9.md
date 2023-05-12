@@ -96,8 +96,7 @@ We are the Green Babies
 Normal tracks lead to the shipyard
 and an inn a building not too far from here
 docks
-Near
-#TPK Over Cheese!!!
+Near #TPK Over Cheese!!!
 
 upstanding group from the [[Adventurers guild]] murdered
 Wake up without [lilly]

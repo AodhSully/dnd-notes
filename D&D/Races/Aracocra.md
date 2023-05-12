@@ -1,0 +1,1 @@
+live in the [[Aracocra Settlement]] next to the [[Big Mountain]] in the mountains in the north

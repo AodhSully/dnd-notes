@@ -84,7 +84,7 @@ the truth
 3 dead wizards
 [[dormond]] can't come back
 
-[[flynn]] might come back
+[[Flynn]] might come back
 
 [[Anthony]] old wizard in [[Porthladd]]
 

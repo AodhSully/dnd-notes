@@ -1,6 +1,6 @@
 DATE: 2023/02/15
 
-[[Aranalle]] revives a clone of  [[Sssssssteve]] Steve
+[[Aranelle]] revives a clone of  [[Sssssssteve]] Steve
 
 
 Message to [[Grom]]
@@ -13,7 +13,7 @@ Day 1 pass the village we didnt do nuffin about
 Trying to outrun a #tornado
 Bumping inside *Ouch*
 
-[[Aranalle]] dimension door out with me
+[[Aranelle]] dimension door out with me
 in a fox den
 Made a #puffin *Friend*
 Theres no way this can go wrong

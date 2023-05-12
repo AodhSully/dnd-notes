@@ -7,7 +7,7 @@ letter of recomendation from [[Mayor of Camter]]
 
 get brass plack for ' #Cart "Blanche"''
 
-[[Aranalle]]
+[[Aranelle]]
 tough time with her folks
 killed her buddy
 "might" have been an accident

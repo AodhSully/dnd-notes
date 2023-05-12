@@ -5,7 +5,7 @@ Open the book
 
 Cracked floor after reading the book
 
-[[Aranalle]] sees the book in her dreams
+[[Aranelle]] sees the book in her dreams
 	aquire the book and all shall be revealed
 	You will learn my name in time
 	retrieve the book and fulfill what you are meant to fullfil

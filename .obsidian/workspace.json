@@ -16,24 +16,11 @@
             }
           },
           {
-            "id": "6e5519aded80f2b9",
+            "id": "07a50bf1d5b20299",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "07a50bf1d5b20299",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Places/Aracocra Settlement.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           }
         ],
@@ -66,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Magistrates",
+                "query": "carrage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,34 +172,35 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "6e5519aded80f2b9",
+  "active": "07a50bf1d5b20299",
   "lastOpenFiles": [
-    "D&D/NPCs/Unknown aliegences/Serilla.md",
-    "D&D/Session Notes/2022/Session 15.md",
-    "D&D/NPCs/Unknown aliegences/Anthony.md",
-    "D&D/NPCs/Unknown aliegences/lord tristan.md",
-    "D&D/Session Notes/2022/Session 17.md",
-    "Ailiris.md",
-    "D&D/NPCs/Unknown aliegences/Areen.md",
-    "D&D/NPCs/Unknown aliegences/Mialyr.md",
-    "D&D/NPCs/Good NPC/Dormond.md",
-    "D&D/Session Notes/2023/Session 71.md",
-    "D&D/Places/Aracocra Settlement.md",
-    "D&D/NPCs/Laurel.md",
-    "D&D/Session Notes/2021/Session 7.md",
-    "D&D/NPCs/Groups/Order of knights.md",
-    "D&D/Session Notes/2022/Session 22.md",
-    "D&D/NPCs/Bad NPC/Brontes.md",
-    "D&D/Items/The Book.md",
-    "D&D/Places/Pathcross.md",
-    "D&D/Races/brass dragons.md",
+    "puffin.md",
+    "Northern Mountains.md",
     "D&D/NPCs/Unknown aliegences/Peg.md",
-    "D&D/NPCs/Paplepel.md",
-    "D&D/Session Notes/2021/Session 3.md",
-    "D&D/Places/HELKOR.md",
-    "Big Willow.md",
     "D&D/NPCs/Gods/Meg.md",
-    "D&D/NPCs/Unknown aliegences/Ismone.md",
+    "D&D/Session Notes/2023/Session 66.md",
+    "D&D/PCs/Deckheads/Deckheads.md",
+    "Flynn.md",
+    "D&D/Places/Crystwy.md",
+    "D&D/Session Notes/2023/Session 64.md",
+    "D&D/NPCs/Unknown aliegences/Myrin.md",
+    "D&D/NPCs/Unknown aliegences/Tury.md",
+    "D&D/Session Notes/2022/Session 41 - Big Yin 6.md",
+    "D&D/History/War of the dragons.md",
+    "D&D/NPCs/Bad Beasties/Araya.md",
+    "D&D/PCs/Deckheads/Jock.md",
+    "D&D/PCs/Thunderfucks/Ollukaar.md",
+    "nat1.md",
+    "D&D/NPCs/Cyril.md",
+    "D&D/Items/Items.md",
+    "Kills.md",
+    "D&D/NPCs/Groups/knights of valour.md",
+    "D&D/Session Notes/2021/Session 7.md",
+    "D&D/NPCs/Good NPC/Cliera siladele.md",
+    "D&D/Session Notes/2022/Session 54.md",
+    "D&D/NPCs/Groups/Royals of Valar.md",
+    "Queen Aspen Valaren.md",
+    "D&D/PCs/FarSeekers",
     "D&D/plugins/fantasy-calendar/data.json",
     "D&D/plugins/fantasy-calendar",
     "D&D/plugins",

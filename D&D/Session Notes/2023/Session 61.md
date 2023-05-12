@@ -2,7 +2,7 @@ DATE: 2023/02/01
 
 made a deal with [[Raven queen]] to get scroll in exchang efor the evil book
 
-[[Pinecone]] and [[Aranalle]] fixed!!! Mostly
+[[Pinecone]] and [[Aranelle]] fixed!!! Mostly
 
 Days since [[Eryl]] has gone 6
 

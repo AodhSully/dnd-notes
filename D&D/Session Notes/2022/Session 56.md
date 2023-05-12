@@ -25,4 +25,4 @@ Agathys
 
 Things not going well
 
-Fight with [[Zericks]]
+Fight with [[Lord Zericks]]

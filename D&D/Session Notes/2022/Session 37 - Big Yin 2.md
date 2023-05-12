@@ -20,16 +20,15 @@ What are you doing in this part of the woods*
 
 Elf bitch wants [[Cara]]
 
-Parchment on the ground
-
-we are both watching, you don't have long to choose
+#note Parchment on the ground
+	we are both watching, you don't have long to choose
 
 Less than a day from the cave
 
 7 dragons
 
 Some fuckery with [[green daddy]]
-*Looking forward to see [[Eryl]] and he is looking forward to see me*
+	*Looking forward to see [[Eryl]] and he is looking forward to see me*
 
 In the cave
 

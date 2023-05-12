@@ -5,7 +5,7 @@
 [[Rusty]]
 [[Py]]
 [[Tardon]]
-[[Aranalle]]
+[[Aranelle]]
 
 ## Knights
 [[Bryne]]

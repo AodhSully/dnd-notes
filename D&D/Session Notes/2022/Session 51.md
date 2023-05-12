@@ -8,7 +8,7 @@ towns found on map called
 [[Golyria]] #placeToCheckOut #town
 [[Ryllyren]] #placeToCheckOut #town
 
-[[Aranalle]] signs up as Vasha
+[[Aranelle]] signs up as Vasha
 
 [[Tardon]]s temple -
 	[[Bredden Cadrick]]
@@ -23,7 +23,7 @@ towns found on map called
 	fairly sure I know something thats in there
 	ask about the black market
 
-[[aquilo melenos]]
+[[Aquilo Melenos]]
 	[[Thraldur]] 
 	the palace
 	Lord magistrate, regent of

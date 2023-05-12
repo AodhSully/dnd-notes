@@ -14,7 +14,7 @@ tower at N S W E
 [[Mindarion]] magical misadventures*
 romance novel with adventure and action  
   
-Mentuons [[dormond]]  
+Mentions [[dormond]]  
 [[Sebastian]] - human wizzard tall ganlgly fellow
 [[Sebastian]] was seen in the magnificent mansion
 

@@ -1,9 +1,12 @@
 DATE: 2023/04/05
 
+this was on the 5th of the month
+
 To the TREEEEEEE
 
-On the side of the #cart
-	No touchy Property of the [[Thunder Fucks]]
+We afixed a brass plaque with the name "*Cart Blanche*" on it.
+On the side of the #cart we painted
+	*"No touchy, Property of the [[Thunder Fucks]]"*
 Written on the side of the carrage
 
 Into the woods heading north north west
@@ -74,7 +77,7 @@ using [[Deck of Many Things]]
 
 [[Shadow Dragon]]
 	your world will be enveloped in shadow
-	for [[Aranalle]]: Your Elvin friends paytron sends their regards
+	for [[Aranelle]]: Your Elvin friends paytron sends their regards
 
 Sent message to [[Grom]]
 	Message For [[Jock]]. You are malicious and malevolent, contemptible and despicable, odious and loathsome. You have no redeeming qualities or virtues. You smell. Hate you
