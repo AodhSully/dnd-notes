@@ -7,7 +7,7 @@ To the TREEEEEEE
 We afixed a brass plaque with the name "*Cart Blanche*" on it.
 On the side of the #cart we painted
 	*"No touchy, Property of the [[Thunder Fucks]]"*
-Written on the side of the carrage
+Written on the side of the carriage
 
 Into the woods heading north north west
 

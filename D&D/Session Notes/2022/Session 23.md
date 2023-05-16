@@ -28,7 +28,7 @@ Mystery #book with no markings
 #Book about a lord named [[Lord Zericks]]
 owned a rapier... super old
 found in the dark forest
-remance of his manor
+remanence of his manor
 it is now in our possession
 
 attic chest of drawers
@@ -45,7 +45,7 @@ Spell is called dawn
 
 #Map
 contains a map
-skull drawn around wherer the village is
+skull drawn around where the village is
 circle a few days away from [[Rocknest]]
 circle between [[Camter]] and [[flumvin]]
 

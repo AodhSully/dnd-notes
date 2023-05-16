@@ -19,12 +19,38 @@
             "id": "07a50bf1d5b20299",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/PCs/Thunderfucks/Sir Puddlesworth.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "449ca8fe6106b957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2023/Session 72.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ef88aff65ad10d3",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "carrage",
+                "query": "map",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/Session Notes/2023/Session 72.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/Session Notes/2023/Session 72.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/Session Notes/2023/Session 72.md"
+              }
             }
           },
           {
@@ -172,34 +202,36 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "07a50bf1d5b20299",
+  "active": "449ca8fe6106b957",
   "lastOpenFiles": [
-    "puffin.md",
-    "Northern Mountains.md",
+    "D&D/Session Notes/2023/Session 72.md",
+    "Turask.md",
+    "The Tree.md",
+    "Pasted image 20230516231652.png",
+    "Pasted image 20230516231025.png",
+    "D&D/Session Notes/2022/Session 23.md",
+    "Pasted image 20230516224756.png",
+    "She Who Watches.md",
+    "D&D/PCs/Thunderfucks/Sir Puddlesworth.md",
+    "D&D/Places/Big Mountain.md",
+    "D&D/Session Notes/2023/Session 69.md",
+    "D&D/Session Notes/2023/Session 66.md",
+    "D&D/Session Notes/2022/Session 31.md",
+    "D&D/NPCs/Good NPC/Eryl.md",
+    "Behir.md",
+    "TODO.md",
+    "D&D/History/War of the dragons.md",
+    "Old Mountain Hag.md",
+    "D&D/Session Notes/2023/Session 71.md",
+    "D&D/NPCs/Bad Beasties/Cyril Kyburn.md",
+    "D&D/NPCs/Unknown aliegences/puffin.md",
+    "D&D/Places/Northern Mountains.md",
     "D&D/NPCs/Unknown aliegences/Peg.md",
     "D&D/NPCs/Gods/Meg.md",
-    "D&D/Session Notes/2023/Session 66.md",
     "D&D/PCs/Deckheads/Deckheads.md",
     "Flynn.md",
     "D&D/Places/Crystwy.md",
     "D&D/Session Notes/2023/Session 64.md",
-    "D&D/NPCs/Unknown aliegences/Myrin.md",
-    "D&D/NPCs/Unknown aliegences/Tury.md",
-    "D&D/Session Notes/2022/Session 41 - Big Yin 6.md",
-    "D&D/History/War of the dragons.md",
-    "D&D/NPCs/Bad Beasties/Araya.md",
-    "D&D/PCs/Deckheads/Jock.md",
-    "D&D/PCs/Thunderfucks/Ollukaar.md",
-    "nat1.md",
-    "D&D/NPCs/Cyril.md",
-    "D&D/Items/Items.md",
-    "Kills.md",
-    "D&D/NPCs/Groups/knights of valour.md",
-    "D&D/Session Notes/2021/Session 7.md",
-    "D&D/NPCs/Good NPC/Cliera siladele.md",
-    "D&D/Session Notes/2022/Session 54.md",
-    "D&D/NPCs/Groups/Royals of Valar.md",
-    "Queen Aspen Valaren.md",
     "D&D/PCs/FarSeekers",
     "D&D/plugins/fantasy-calendar/data.json",
     "D&D/plugins/fantasy-calendar",
