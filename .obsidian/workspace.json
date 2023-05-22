@@ -45,12 +45,17 @@
             "id": "8ef88aff65ad10d3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2023/Session 72.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -79,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "map",
+                "query": "kyb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,9 +207,21 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "449ca8fe6106b957",
+  "active": "8ef88aff65ad10d3",
   "lastOpenFiles": [
+    "D&D/NPCs/Bad Beasties/Cyril Kyburn.md",
     "D&D/Session Notes/2023/Session 72.md",
+    "D&D/Session Notes/2023/Session 67.md",
+    "D&D/Session Notes/2023/Session 68.md",
+    "D&D/Session Notes/2023/Session 69.md",
+    "D&D/Session Notes/2023/Session 70.md",
+    "Ailiris.md",
+    "D&D/NPCs/Andreas.md",
+    "D&D/NPCs/Unknown aliegences/Solace.md",
+    "D&D/NPCs/Unknown aliegences/Serilla.md",
+    "D&D/NPCs/Unknown aliegences/Areen.md",
+    "D&D/NPCs/Bad Beasties/Araya.md",
+    "D&D/PCs/Thunderfucks/Sir Puddlesworth.md",
     "Turask.md",
     "The Tree.md",
     "Pasted image 20230516231652.png",
@@ -212,9 +229,7 @@
     "D&D/Session Notes/2022/Session 23.md",
     "Pasted image 20230516224756.png",
     "She Who Watches.md",
-    "D&D/PCs/Thunderfucks/Sir Puddlesworth.md",
     "D&D/Places/Big Mountain.md",
-    "D&D/Session Notes/2023/Session 69.md",
     "D&D/Session Notes/2023/Session 66.md",
     "D&D/Session Notes/2022/Session 31.md",
     "D&D/NPCs/Good NPC/Eryl.md",
@@ -223,15 +238,6 @@
     "D&D/History/War of the dragons.md",
     "Old Mountain Hag.md",
     "D&D/Session Notes/2023/Session 71.md",
-    "D&D/NPCs/Bad Beasties/Cyril Kyburn.md",
-    "D&D/NPCs/Unknown aliegences/puffin.md",
-    "D&D/Places/Northern Mountains.md",
-    "D&D/NPCs/Unknown aliegences/Peg.md",
-    "D&D/NPCs/Gods/Meg.md",
-    "D&D/PCs/Deckheads/Deckheads.md",
-    "Flynn.md",
-    "D&D/Places/Crystwy.md",
-    "D&D/Session Notes/2023/Session 64.md",
     "D&D/PCs/FarSeekers",
     "D&D/plugins/fantasy-calendar/data.json",
     "D&D/plugins/fantasy-calendar",

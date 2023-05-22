@@ -28,9 +28,9 @@ met someone who could have been the [[raven queen]]
 NEW PATRON is [[Meg]]
 
 [[Brontes]] - [[werewolf camp]]
-	Has the shadowscale rapier  
-	has atuned to it  
-	depest condolences to [[Ollukaar]] on the temple
+	Has the shadow scale rapier  
+	has attuned to it  
+	deepest condolences to [[Ollukaar]] on the temple
 
 The dudes are blackmailing the forest dudes
 

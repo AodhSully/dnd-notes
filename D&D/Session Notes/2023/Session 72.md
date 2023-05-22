@@ -255,3 +255,4 @@ there is a way to achieve and fulfil the prophecy
 
 the PC who tried to forge the weapon could have found out about the [[Turask]] 
 
+THIS YEAR IS 243
