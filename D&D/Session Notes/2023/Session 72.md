@@ -182,7 +182,7 @@ not far from dwarven stronghold
 head up into the 
 seeking to map the continent
 what can be mapped can be found
-grandad there for riches that can be found
+[[Grandad]] there for riches that can be found
 they start to run out of rations
 they did not face any beasts
 sticking to quieter paths, traveling quietly
@@ -192,10 +192,10 @@ that's when it started going wrong
 arguments break out
 others wanted to turn back
 most wanted to just know what was there
-grandad not satisfied
+[[Grandad]] not satisfied
 waited till the cold night
 he is on watch with another who is tired and drunk
-once drunk enough, grandad murdered the other guy on watch
+once drunk enough, [[Grandad]] murdered the other guy on watch
 killed the whole party
 2 awoke, tried to defend themselves
 too cold to fight 
@@ -204,9 +204,9 @@ eat them one
 determined to trek to a stronghold
 on his journey he encountered "MY RELATIVE" a white dragon
 in this time it had only been a few years since the dragons appeared
-white dragon swooped down - grandad managed to bargain with it
+white dragon swooped down - [[Grandad]] managed to bargain with it
 dragon felt a kinship - a pact was forged between the two
-as long as grandad would feed the beast, telling him what he knew about the land - dragon would bestow draconic abilities
+as long as [[Grandad]] would feed the beast, telling him what he knew about the land - dragon would bestow draconic abilities
 went out into the world with new powers
 
 got to the gates of the stronghold

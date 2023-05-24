@@ -12,5 +12,6 @@ swapped out her gold for copper
 BFF with [[Peg]]
 [[Piff]]s new patron
 
+[[Peg]] is a clone of [[Meg]]
 
 

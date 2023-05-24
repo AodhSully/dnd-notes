@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 72.md",
+                "file": "D&D/Items/White Dragon Potion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,12 +42,12 @@
             }
           },
           {
-            "id": "8ef88aff65ad10d3",
+            "id": "22854e5c27a420e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 72.md",
+                "file": "D&D/NPCs/Good NPC/Mildred Hopsockle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -55,20 +55,67 @@
             }
           },
           {
-            "id": "48295005c0bc45c6",
+            "id": "a617c00736b51dbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Places/Ailiris.md",
+                "file": "D&D/NPCs/Unknown aliegences/Dardon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "4712be411cfa49b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2023/Session 73.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a885ba4fcebe118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Platinum Dragon.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd0827de558fff80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/NPCs/Bad NPC/Message To Grom.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f325cc65eaf1c4d6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -97,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kyb",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Places/Ailiris.md",
+                "file": "Platinum Dragon.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Places/Ailiris.md",
+                "file": "Platinum Dragon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Places/Ailiris.md"
+                "file": "Platinum Dragon.md"
               }
             }
           },
@@ -220,37 +267,39 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "36d76cfab0226f73",
+  "active": "1a885ba4fcebe118",
   "lastOpenFiles": [
-    "D&D/NPCs/Bad Beasties/Behir.md",
     "D&D/Session Notes/2023/Session 73.md",
-    "D&D/IMG",
-    "D&D/Session Notes/2023/Session 72.md",
-    "D&D/NPCs/Bad Beasties/Cyril Kyburn.md",
-    "D&D/Session Notes/2023/Session 67.md",
-    "D&D/Session Notes/2023/Session 68.md",
-    "D&D/Session Notes/2023/Session 69.md",
-    "D&D/Session Notes/2023/Session 70.md",
+    "Platinum Dragon.md",
+    "D&D/Session Notes/2023/Session 63.md",
     "D&D/Places/Ailiris.md",
-    "D&D/NPCs/Andreas.md",
-    "D&D/NPCs/Unknown aliegences/Solace.md",
-    "D&D/NPCs/Unknown aliegences/Serilla.md",
-    "D&D/NPCs/Unknown aliegences/Areen.md",
+    "D&D/Races/Ki-Ran.md",
+    "D&D/NPCs/Bad NPC/Laios Mentoros.md",
+    "D&D/PCs/Thunderfucks/Ollukaar.md",
+    "D&D/Session Notes/2023/Session 72.md",
+    "D&D/Session Notes/2023/Session 71.md",
     "D&D/NPCs/Bad Beasties/Araya.md",
-    "D&D/PCs/Thunderfucks/Sir Puddlesworth.md",
-    "D&D/NPCs/Bad Beasties/Turask.md",
+    "D&D/NPCs/Bad NPC/Message To Grom.md",
+    "D&D/Templates/Session.md",
+    "D&D/PCs/Thunderfucks/Piff.md",
+    "D&D/NPCs/Bad Beasties/Old Mountain Hag.md",
+    "D&D/NPCs/Bad Beasties/Behir.md",
+    "D&D/NPCs/Groups/Tarius.md",
     "D&D/Places/The Tree.md",
+    "TODO.md",
+    "D&D/NPCs/Unknown aliegences/Peg.md",
+    "D&D/NPCs/Gods/Meg.md",
+    "D&D/Items/White Dragon Potion.md",
+    "D&D/NPCs/Gods/She Who Watches.md",
+    "D&D/NPCs/Good NPC/Mildred Hopsockle.md",
+    "Lius Mentoros.md",
+    "Kills.md",
+    "Piffs Family/Reine des Glaces.md",
+    "Piffs Family",
+    "D&D/IMG",
     "D&D/IMG/Pasted image 20230516231652.png",
     "D&D/IMG/Pasted image 20230516231025.png",
-    "D&D/Session Notes/2022/Session 23.md",
     "D&D/IMG/Pasted image 20230516224756.png",
-    "D&D/NPCs/Gods/She Who Watches.md",
-    "D&D/Places/Big Mountain.md",
-    "D&D/Session Notes/2023/Session 66.md",
-    "D&D/Session Notes/2022/Session 31.md",
-    "D&D/NPCs/Good NPC/Eryl.md",
-    "TODO.md",
-    "D&D/History/War of the dragons.md",
     "D&D/PCs/FarSeekers",
     "D&D/plugins/fantasy-calendar/data.json",
     "D&D/plugins/fantasy-calendar",
