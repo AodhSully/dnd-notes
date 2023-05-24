@@ -53,9 +53,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48295005c0bc45c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Places/Ailiris.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 72.md",
+                "file": "D&D/Places/Ailiris.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 72.md",
+                "file": "D&D/Places/Ailiris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 72.md"
+                "file": "D&D/Places/Ailiris.md"
               }
             }
           },
@@ -207,37 +220,37 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "8ef88aff65ad10d3",
+  "active": "36d76cfab0226f73",
   "lastOpenFiles": [
-    "D&D/NPCs/Bad Beasties/Cyril Kyburn.md",
+    "D&D/NPCs/Bad Beasties/Behir.md",
+    "D&D/Session Notes/2023/Session 73.md",
+    "D&D/IMG",
     "D&D/Session Notes/2023/Session 72.md",
+    "D&D/NPCs/Bad Beasties/Cyril Kyburn.md",
     "D&D/Session Notes/2023/Session 67.md",
     "D&D/Session Notes/2023/Session 68.md",
     "D&D/Session Notes/2023/Session 69.md",
     "D&D/Session Notes/2023/Session 70.md",
-    "Ailiris.md",
+    "D&D/Places/Ailiris.md",
     "D&D/NPCs/Andreas.md",
     "D&D/NPCs/Unknown aliegences/Solace.md",
     "D&D/NPCs/Unknown aliegences/Serilla.md",
     "D&D/NPCs/Unknown aliegences/Areen.md",
     "D&D/NPCs/Bad Beasties/Araya.md",
     "D&D/PCs/Thunderfucks/Sir Puddlesworth.md",
-    "Turask.md",
-    "The Tree.md",
-    "Pasted image 20230516231652.png",
-    "Pasted image 20230516231025.png",
+    "D&D/NPCs/Bad Beasties/Turask.md",
+    "D&D/Places/The Tree.md",
+    "D&D/IMG/Pasted image 20230516231652.png",
+    "D&D/IMG/Pasted image 20230516231025.png",
     "D&D/Session Notes/2022/Session 23.md",
-    "Pasted image 20230516224756.png",
-    "She Who Watches.md",
+    "D&D/IMG/Pasted image 20230516224756.png",
+    "D&D/NPCs/Gods/She Who Watches.md",
     "D&D/Places/Big Mountain.md",
     "D&D/Session Notes/2023/Session 66.md",
     "D&D/Session Notes/2022/Session 31.md",
     "D&D/NPCs/Good NPC/Eryl.md",
-    "Behir.md",
     "TODO.md",
     "D&D/History/War of the dragons.md",
-    "Old Mountain Hag.md",
-    "D&D/Session Notes/2023/Session 71.md",
     "D&D/PCs/FarSeekers",
     "D&D/plugins/fantasy-calendar/data.json",
     "D&D/plugins/fantasy-calendar",
