@@ -1,6 +1,6 @@
 DATE: 2023-05-31
 
-In Game date: 5-3-243
+In Game date: 243-3-5
 
 [[Tardon]] finds out that there was nothing too strange going on in [[Gabel]] in a message from his temple
 

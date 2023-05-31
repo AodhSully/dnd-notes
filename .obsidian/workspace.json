@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Templates/Session.md",
+                "file": "D&D/Session Notes/2023/Session 75 - Big Yin 2 - Part 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9c95e40928790be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Calendar/Calendar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Templates/Session.md",
+                "file": "D&D/Calendar/Calendar.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Templates/Session.md",
+                "file": "D&D/Calendar/Calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Templates/Session.md"
+                "file": "D&D/Calendar/Calendar.md"
               }
             }
           },
@@ -186,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 490.5
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,15 +212,18 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "d8cb5e9971a99a02",
+  "active": "b9c95e40928790be",
   "lastOpenFiles": [
+    "FuckHeads Kill Count 2.md",
+    "Kills.md",
     "D&D/Session Notes/2023/Session 75 - Big Yin 2 - Part 2.md",
+    "D&D/Law of the land.md",
+    "D&D/Templates/Session.md",
     "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
     "D&D/Calendar",
-    "Pasted image 20230531210435.png",
+    "D&D/IMG/Pasted image 20230531210435.png",
     "D&D/Calendar/Calendar.md",
     "D&D/NPCs/Unknown aliegences/hat man.md",
-    "FuckHeads Kill Count 2.md",
     "D&D/Races/Ki-Ran.md",
     "D&D/Items/Ersatz Eye.md",
     "D&D/NPCs/Good NPC/Duke of Beldor.md",
@@ -227,8 +243,6 @@
     "Gable.md",
     "D&D/Items/Oraculum.md",
     "D&D/Session Notes/2023/Session 73.md",
-    "D&D/PCs/Thunderfucks/Piff.md",
-    "D&D/PCs/Deckheads/Grom.md",
     "Piffs Family",
     "D&D/IMG",
     "D&D/IMG/Pasted image 20230516231652.png",
