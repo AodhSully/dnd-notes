@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Calendar/Calendar.md",
+                "file": "D&D/Templates/Session.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
+                "file": "D&D/Templates/Session.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
+                "file": "D&D/Templates/Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md"
+                "file": "D&D/Templates/Session.md"
               }
             }
           },
@@ -199,13 +199,13 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "f97182d23dcc240c",
+  "active": "d8cb5e9971a99a02",
   "lastOpenFiles": [
     "D&D/Session Notes/2023/Session 75 - Big Yin 2 - Part 2.md",
+    "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
     "D&D/Calendar",
     "Pasted image 20230531210435.png",
     "D&D/Calendar/Calendar.md",
-    "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
     "D&D/NPCs/Unknown aliegences/hat man.md",
     "FuckHeads Kill Count 2.md",
     "D&D/Races/Ki-Ran.md",
