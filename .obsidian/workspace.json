@@ -8,27 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21a3946c57f4a0c7",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "a9c70c982543c3d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "94c303bc38288b2c",
             "type": "leaf",
             "state": {
@@ -42,50 +21,16 @@
             }
           },
           {
-            "id": "cd0827de558fff80",
+            "id": "cd2f5109f7adfaba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
+                "file": "D&D/Session Notes/2023/Session 75 - Big Yin 2 - Part 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "f325cc65eaf1c4d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "026f73ae13e926e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/NPCs/Unknown aliegences/hat man.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72d1580c11e492d6",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
             }
           },
           {
@@ -94,23 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar.md",
+                "file": "D&D/Calendar/Calendar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "d1f176cd74fdecab",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 490.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,8 +199,15 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "f325cc65eaf1c4d6",
+  "active": "f97182d23dcc240c",
   "lastOpenFiles": [
+    "D&D/Session Notes/2023/Session 75 - Big Yin 2 - Part 2.md",
+    "D&D/Calendar",
+    "Pasted image 20230531210435.png",
+    "D&D/Calendar/Calendar.md",
+    "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
+    "D&D/NPCs/Unknown aliegences/hat man.md",
+    "FuckHeads Kill Count 2.md",
     "D&D/Races/Ki-Ran.md",
     "D&D/Items/Ersatz Eye.md",
     "D&D/NPCs/Good NPC/Duke of Beldor.md",
@@ -275,22 +219,16 @@
     "Piffs Family/Re Virnuv.md",
     "D&D/NPCs/Unknown aliegences/Solace.md",
     "D&D/NPCs/Unknown aliegences/Ismone.md",
-    "Calendar.md",
-    "D&D/NPCs/Unknown aliegences/hat man.md",
     "D&D/NPCs/Bad Beasties/Kyburn.md",
     "D&D/NPCs/Bad Beasties/Cyril Kyburn.md",
     "D&D/Session Notes/2021/Session 7.md",
     "D&D/NPCs/Cyril.md",
-    "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
-    "Pasted image 20230525230700.png",
+    "D&D/IMG/Pasted image 20230525230700.png",
     "Gable.md",
     "D&D/Items/Oraculum.md",
     "D&D/Session Notes/2023/Session 73.md",
     "D&D/PCs/Thunderfucks/Piff.md",
-    "FuckHeads Kill Count 2.md",
     "D&D/PCs/Deckheads/Grom.md",
-    "D&D/PCs/Thunderfucks/Enva.md",
-    "D&D/PCs/Deckheads/Jock.md",
     "Piffs Family",
     "D&D/IMG",
     "D&D/IMG/Pasted image 20230516231652.png",
