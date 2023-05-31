@@ -1,5 +1,5 @@
 ---
-Race:
+Race: Dragonborn
 Who: Ollukaar Tarius
 Where:
 	Town:
@@ -12,7 +12,7 @@ Info:
 
 
 
-
+Is a member of clan [[Tarius]]
 Lactose intolerant
 Does not listen
 A little bit racist - Benevolent Racist

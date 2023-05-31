@@ -112,8 +112,7 @@ note - dagger
 
 Branding on the body matches that of those in [[Flumvin]]
 
-[[Cyril]] teleported in
-he can do a lot more
+[[Cyril]] teleported in he can do a lot more
 
 off to the outhouse
 investigate

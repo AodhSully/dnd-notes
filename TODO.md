@@ -1,2 +1,2 @@
 - get a [[White Dragon Potion]] from [[Mildred Hopsockle]]
-- 
+-  Free [[Gabel]]

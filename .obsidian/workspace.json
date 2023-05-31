@@ -16,77 +16,12 @@
             }
           },
           {
-            "id": "07a50bf1d5b20299",
+            "id": "a9c70c982543c3d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/PCs/Thunderfucks/Sir Puddlesworth.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "449ca8fe6106b957",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Items/White Dragon Potion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22854e5c27a420e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/NPCs/Good NPC/Mildred Hopsockle.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a617c00736b51dbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/NPCs/Unknown aliegences/Dardon.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4712be411cfa49b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Session Notes/2023/Session 73.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a885ba4fcebe118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Platinum Dragon.md",
+                "file": "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FuckHeads Kill Count.md",
+                "file": "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/NPCs/Bad NPC/Message To Grom.md",
+                "file": "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,12 +58,59 @@
             "id": "f325cc65eaf1c4d6",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "026f73ae13e926e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/NPCs/Unknown aliegences/hat man.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72d1580c11e492d6",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8cb5e9971a99a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1f176cd74fdecab",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -202,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuckHeads Kill Count.md",
+                "file": "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -230,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FuckHeads Kill Count.md",
+                "file": "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuckHeads Kill Count.md"
+                "file": "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md"
               }
             }
           },
@@ -280,34 +262,35 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "94c303bc38288b2c",
+  "active": "f325cc65eaf1c4d6",
   "lastOpenFiles": [
-    "Kills.md",
-    "FuckHeads Kill Count.md",
-    "Platinum Dragon.md",
-    "D&D/Session Notes/2023/Session 73.md",
-    "D&D/Session Notes/2023/Session 63.md",
-    "D&D/Places/Ailiris.md",
     "D&D/Races/Ki-Ran.md",
-    "D&D/NPCs/Bad NPC/Laios Mentoros.md",
-    "D&D/PCs/Thunderfucks/Ollukaar.md",
-    "D&D/Session Notes/2023/Session 72.md",
-    "D&D/Session Notes/2023/Session 71.md",
-    "D&D/NPCs/Bad Beasties/Araya.md",
-    "D&D/NPCs/Bad NPC/Message To Grom.md",
-    "D&D/Templates/Session.md",
-    "D&D/PCs/Thunderfucks/Piff.md",
-    "D&D/NPCs/Bad Beasties/Old Mountain Hag.md",
-    "D&D/NPCs/Bad Beasties/Behir.md",
+    "D&D/Items/Ersatz Eye.md",
+    "D&D/NPCs/Good NPC/Duke of Beldor.md",
+    "D&D/NPCs/Groups/pitarius.md",
     "D&D/NPCs/Groups/Tarius.md",
-    "D&D/Places/The Tree.md",
+    "D&D/PCs/Thunderfucks/Ollukaar.md",
     "TODO.md",
-    "D&D/NPCs/Unknown aliegences/Peg.md",
-    "D&D/NPCs/Gods/Meg.md",
-    "D&D/Items/White Dragon Potion.md",
-    "D&D/NPCs/Gods/She Who Watches.md",
-    "D&D/NPCs/Good NPC/Mildred Hopsockle.md",
-    "Lius Mentoros.md",
+    "Platinum Dragon.md",
+    "Piffs Family/Re Virnuv.md",
+    "D&D/NPCs/Unknown aliegences/Solace.md",
+    "D&D/NPCs/Unknown aliegences/Ismone.md",
+    "Calendar.md",
+    "D&D/NPCs/Unknown aliegences/hat man.md",
+    "D&D/NPCs/Bad Beasties/Kyburn.md",
+    "D&D/NPCs/Bad Beasties/Cyril Kyburn.md",
+    "D&D/Session Notes/2021/Session 7.md",
+    "D&D/NPCs/Cyril.md",
+    "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
+    "Pasted image 20230525230700.png",
+    "Gable.md",
+    "D&D/Items/Oraculum.md",
+    "D&D/Session Notes/2023/Session 73.md",
+    "D&D/PCs/Thunderfucks/Piff.md",
+    "FuckHeads Kill Count 2.md",
+    "D&D/PCs/Deckheads/Grom.md",
+    "D&D/PCs/Thunderfucks/Enva.md",
+    "D&D/PCs/Deckheads/Jock.md",
     "Piffs Family",
     "D&D/IMG",
     "D&D/IMG/Pasted image 20230516231652.png",

@@ -1,3 +1,13 @@
+---
+Race: Human
+Who: Overseer, Archibald, The Liberater of Thraldur, Green and White Dragon Slayer, Lich  Killer, Piffington III 
+Where: West of Here
+	Town: The Mountains East of Valar
+	Home: FrostyBoom Ice Emporium
+Session No: 1
+---
+Info:
+
 Attuned to the staff - [[Oraculum]]
 Is from [[White Dragon]] bloodline
 Patron is [[Meg]]
@@ -13,7 +23,7 @@ Somewhere near/in? the elf kingdom, between [[GWELENDWYR]] and [[VALARVALAR]]? S
 ## Family
 Family made money selling industrial amounts of ice to the elves
 Business —> called  “FrostyBoom”?
-[[Grandad]] —> Ice dragon? - Nope a canibal, who aligned with ice Dragon named [[Barocthaar]] 
+[[Grandad]] —> Ice dragon? - Nope a cannibal, who aligned with ice Dragon named [[Barocthaar]] 
 [[Grandmother]] —> [[Re Virnuv]] —> banged the dragon while off adventuring/wandering around the continent
 #Mother —> [[Reine des Glaces]] —> daughter of Ice dragon
 #Father —> [[Archibald Piffington ii]]
