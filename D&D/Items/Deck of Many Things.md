@@ -49,9 +49,7 @@ Donjon: You disappear and become entombed in a state of suspended animation in a
 King of spades - Ruin
 Ruin: All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.
 
-Queen of spades
-
-Euryale
+Queen of spades - Euryale
 
 [Euryale: The card's medusa-like visage curses you. You take a -2 penalty on](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=0#toc_35) [saving throws](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=0#toc_35) while cursed in this way. Only a god or the magic of The Fates card can end this curse.
 

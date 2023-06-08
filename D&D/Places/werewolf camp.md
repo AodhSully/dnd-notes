@@ -1,4 +1,4 @@
-in the forrest north or [[Crystwy]]
+in the forest north or [[Crystwy]]
 
 [[Brontes]] was there doing shady shit
 #place 

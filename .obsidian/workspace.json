@@ -8,59 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94c303bc38288b2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd2f5109f7adfaba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Session Notes/2023/Session 75 - Big Yin 2 - Part 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8cb5e9971a99a02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Session Notes/2023/Session 75 - Big Yin 2 - Part 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b9c95e40928790be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Calendar/Calendar.md",
+                "file": "D&D/Items/Deck of Many Things.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c0bf37d38f78ac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marcelle Duchamps.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4bc94c14a8efc30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Places/werewolf camp.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "werewol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,11 +100,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 312.5
   },
   "right": {
     "id": "391c06d16cc10094",
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Calendar/Calendar.md",
+                "file": "D&D/Items/Deck of Many Things.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Calendar/Calendar.md",
+                "file": "D&D/Items/Deck of Many Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Calendar/Calendar.md"
+                "file": "D&D/Items/Deck of Many Things.md"
               }
             }
           },
@@ -199,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,15 +201,24 @@
   },
   "active": "b9c95e40928790be",
   "lastOpenFiles": [
-    "FuckHeads Kill Count 2.md",
-    "Kills.md",
+    "D&D/Session Notes/2023/Session 76 - Big Yin 2 - Part 3.md",
+    "D&D/Items/Deck of Many Things.md",
+    "Marcelle Duchamps.md",
+    "D&D/Places/werewolf camp.md",
+    "D&D/NPCs/Bad NPC/Brontes.md",
+    "D&D/Session Notes/2023/Session 67.md",
+    "D&D/Session Notes/2023/Session 68.md",
+    "D&D/Session Notes/2023/Session 73.md",
+    "FuckHeads Kill Count.md",
     "D&D/Session Notes/2023/Session 75 - Big Yin 2 - Part 2.md",
-    "D&D/Law of the land.md",
-    "D&D/Templates/Session.md",
     "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
+    "Talfin.md",
+    "D&D/Law of the land.md",
+    "D&D/Calendar/Calendar.md",
+    "Kills.md",
+    "D&D/Templates/Session.md",
     "D&D/Calendar",
     "D&D/IMG/Pasted image 20230531210435.png",
-    "D&D/Calendar/Calendar.md",
     "D&D/NPCs/Unknown aliegences/hat man.md",
     "D&D/Races/Ki-Ran.md",
     "D&D/Items/Ersatz Eye.md",
@@ -233,16 +229,7 @@
     "TODO.md",
     "Platinum Dragon.md",
     "Piffs Family/Re Virnuv.md",
-    "D&D/NPCs/Unknown aliegences/Solace.md",
-    "D&D/NPCs/Unknown aliegences/Ismone.md",
-    "D&D/NPCs/Bad Beasties/Kyburn.md",
-    "D&D/NPCs/Bad Beasties/Cyril Kyburn.md",
-    "D&D/Session Notes/2021/Session 7.md",
-    "D&D/NPCs/Cyril.md",
     "D&D/IMG/Pasted image 20230525230700.png",
-    "Gable.md",
-    "D&D/Items/Oraculum.md",
-    "D&D/Session Notes/2023/Session 73.md",
     "Piffs Family",
     "D&D/IMG",
     "D&D/IMG/Pasted image 20230516231652.png",
