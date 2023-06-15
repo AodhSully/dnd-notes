@@ -21,12 +21,38 @@
             }
           },
           {
+            "id": "4abe7a6e5a64f567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ythyri.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6be75df8a52ba13f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2023/Session 77 - Big Yin 2 - Part 4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1c0bf37d38f78ac9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marcelle Duchamps.md",
+                "file": "D&D/PCs/Deckheads/Marcelle Duchamps.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Items/Deck of Many Things.md",
+                "file": "D&D/Session Notes/2023/Session 77 - Big Yin 2 - Part 4.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Items/Deck of Many Things.md",
+                "file": "D&D/Session Notes/2023/Session 77 - Big Yin 2 - Part 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Items/Deck of Many Things.md"
+                "file": "D&D/Session Notes/2023/Session 77 - Big Yin 2 - Part 4.md"
               }
             }
           },
@@ -199,20 +225,22 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "b9c95e40928790be",
+  "active": "6be75df8a52ba13f",
   "lastOpenFiles": [
-    "D&D/Session Notes/2023/Session 76 - Big Yin 2 - Part 3.md",
+    "FuckHeads Kill Count.md",
+    "D&D/Session Notes/2023/Session 77 - Big Yin 2 - Part 4.md",
     "D&D/Items/Deck of Many Things.md",
-    "Marcelle Duchamps.md",
+    "Ythyri.md",
+    "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
+    "D&D/Session Notes/2023/Session 75 - Big Yin 2 - Part 2.md",
+    "D&D/Session Notes/2023/Session 76 - Big Yin 2 - Part 3.md",
+    "D&D/PCs/Deckheads/Marcelle Duchamps.md",
     "D&D/Places/werewolf camp.md",
     "D&D/NPCs/Bad NPC/Brontes.md",
     "D&D/Session Notes/2023/Session 67.md",
     "D&D/Session Notes/2023/Session 68.md",
     "D&D/Session Notes/2023/Session 73.md",
-    "FuckHeads Kill Count.md",
-    "D&D/Session Notes/2023/Session 75 - Big Yin 2 - Part 2.md",
-    "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
-    "Talfin.md",
+    "D&D/PCs/Deckheads/Talfin.md",
     "D&D/Law of the land.md",
     "D&D/Calendar/Calendar.md",
     "Kills.md",
@@ -227,8 +255,6 @@
     "D&D/NPCs/Groups/Tarius.md",
     "D&D/PCs/Thunderfucks/Ollukaar.md",
     "TODO.md",
-    "Platinum Dragon.md",
-    "Piffs Family/Re Virnuv.md",
     "D&D/IMG/Pasted image 20230525230700.png",
     "Piffs Family",
     "D&D/IMG",

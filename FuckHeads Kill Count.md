@@ -1,9 +1,9 @@
-### Thunderfucks - Total - 40
+### Thunderfucks - Total - 43
 
 |[[Piff]]|[[Ollukaar]]|[[Enva]]|[[Py]]|[[Rusty]]|[[Bryne]]|[[Pinecone]]|[[Sir Puddlesworth]]|[[Sssssssteve]]|[[Eryl]]|[[Tardon]]|
 |----|--------|----|--|-----|-----|--------|----------------|-----------|----|------|
 |    |        |    |  |     |     |        |                |            | | 40 |
-|    |        |    |  |     |     |        |                |            | | |
+|    |        |    |  |     |     |        |                |            | | 3 |
 |    |        |    |  |     |     |        |                |            | | |
 |    |        |    |  |     |     |        |                |            | | |
 |    |        |    |  |     |     |        |                |            | | |
