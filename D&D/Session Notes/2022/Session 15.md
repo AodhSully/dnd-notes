@@ -1,7 +1,7 @@
 DATE: 2022/01/15
 
-Armoury Bow for [[Enva]]
--150gp to Enva
+Armoury: new Bow for [[Enva]]
+loan her -150gp towards it
 
 Hunt Troll in the mountains
 Spine + fist

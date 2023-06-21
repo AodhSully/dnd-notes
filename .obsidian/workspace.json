@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ythyri.md",
+                "file": "D&D/Places/Ythyri.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 77 - Big Yin 2 - Part 4.md",
+                "file": "D&D/Items/Drugs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ab1ebd2a37f630d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2023/Session 78 - Big Yin 2 - Part 5.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb2fa5f6e9f7405d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Valar.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc6ec5770d729860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Places/Soup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fa2b17daae5505a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/PCs/Deckheads/Luthien.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "werewol",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 77 - Big Yin 2 - Part 4.md",
+                "file": "D&D/Session Notes/2023/Session 78 - Big Yin 2 - Part 5.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 77 - Big Yin 2 - Part 4.md",
+                "file": "D&D/Session Notes/2023/Session 78 - Big Yin 2 - Part 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 77 - Big Yin 2 - Part 4.md"
+                "file": "D&D/Session Notes/2023/Session 78 - Big Yin 2 - Part 5.md"
               }
             }
           },
@@ -225,12 +277,22 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "6be75df8a52ba13f",
+  "active": "9ab1ebd2a37f630d",
   "lastOpenFiles": [
     "FuckHeads Kill Count.md",
+    "D&D/Session Notes/2023/Session 78 - Big Yin 2 - Part 5.md",
+    "Kills.md",
     "D&D/Session Notes/2023/Session 77 - Big Yin 2 - Part 4.md",
+    "D&D/Races/Deep Ones.md",
+    "D&D/IMG/Pasted image 20230621223754.png",
+    "Valar.md",
+    "D&D/Places/Soup.md",
+    "D&D/PCs/Deckheads/Luthien.md",
+    "D&D/Session Notes/2022/Session 15.md",
+    "D&D/PCs/Thunderfucks/Enva.md",
+    "D&D/Items/Drugs.md",
     "D&D/Items/Deck of Many Things.md",
-    "Ythyri.md",
+    "D&D/Places/Ythyri.md",
     "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
     "D&D/Session Notes/2023/Session 75 - Big Yin 2 - Part 2.md",
     "D&D/Session Notes/2023/Session 76 - Big Yin 2 - Part 3.md",
@@ -243,18 +305,8 @@
     "D&D/PCs/Deckheads/Talfin.md",
     "D&D/Law of the land.md",
     "D&D/Calendar/Calendar.md",
-    "Kills.md",
-    "D&D/Templates/Session.md",
     "D&D/Calendar",
     "D&D/IMG/Pasted image 20230531210435.png",
-    "D&D/NPCs/Unknown aliegences/hat man.md",
-    "D&D/Races/Ki-Ran.md",
-    "D&D/Items/Ersatz Eye.md",
-    "D&D/NPCs/Good NPC/Duke of Beldor.md",
-    "D&D/NPCs/Groups/pitarius.md",
-    "D&D/NPCs/Groups/Tarius.md",
-    "D&D/PCs/Thunderfucks/Ollukaar.md",
-    "TODO.md",
     "D&D/IMG/Pasted image 20230525230700.png",
     "Piffs Family",
     "D&D/IMG",
