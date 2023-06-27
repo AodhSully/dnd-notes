@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 78 - Big Yin 2 - Part 5.md",
+                "file": "D&D/Session Notes/2023/Session 76 - Big Yin 2 - Part 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rusty",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +179,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 78 - Big Yin 2 - Part 5.md",
+                "file": "D&D/Session Notes/2023/Session 76 - Big Yin 2 - Part 3.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -227,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 78 - Big Yin 2 - Part 5.md",
+                "file": "D&D/Session Notes/2023/Session 76 - Big Yin 2 - Part 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 78 - Big Yin 2 - Part 5.md"
+                "file": "D&D/Session Notes/2023/Session 76 - Big Yin 2 - Part 3.md"
               }
             }
           },
@@ -277,10 +278,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "9ab1ebd2a37f630d",
+  "active": "0365b7c4189c1348",
   "lastOpenFiles": [
-    "FuckHeads Kill Count.md",
     "D&D/Session Notes/2023/Session 78 - Big Yin 2 - Part 5.md",
+    "FuckHeads Kill Count.md",
     "Kills.md",
     "D&D/Session Notes/2023/Session 77 - Big Yin 2 - Part 4.md",
     "D&D/Races/Deep Ones.md",
