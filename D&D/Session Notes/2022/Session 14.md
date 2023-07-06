@@ -25,8 +25,8 @@ hipper halfling hobitses?
 flipper halfling hobitses?
 dikodo halfling hobitses?
 merilath elf
-faladorn 
-gordon
+faladorn human
+gordon human
 karkle dragonborn
 
 adamantium stupid expensive
