@@ -12,7 +12,7 @@ Info:
 
 
 
-Is a member of clan [[Tarius]]
+Is a member of clan [[Ptarius]]
 Lactose intolerant
 Does not listen
 A little bit racist - Benevolent Racist

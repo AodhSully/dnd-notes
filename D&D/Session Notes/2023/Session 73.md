@@ -59,7 +59,7 @@ Letter from [[Gabel]]
 	It has come to our attention that the previous Lord Magistrate, [[Aquilo Melenos]], was beheaded while overseeing the city of [[Thraldur]]. However, it has also been brought to our attention that there were those within our Court that, to put lightly, did not strive to uphold the aspects of [[Lady Themis]].
 	On behalf of the remaining _true_ acolytes of the court, I would like to formally apologise to the members of the council and the citizens for which they stand. We feel no hatred toward Thraldur for the murder of Aquilo Melenos and the destruction of our temple within the city. The [[Court of Themus]] remains the ruling power over the city of [[Gabel]], the citizens here have come to understand that what happened was the actions of a traitor in our ranks. We shall endeavour to uphold the values of [[Lady Themis]] and restore order here in [[Gabel]], seeking out what remains of those wretched creatures of the night and dispatching of them with the help of our inquisitors. I write this today on the day of the winter solstice as an olive branch for the dark days ahead of us. If we are to dispose of what remains of these night crawlers we must come together as one and trust one another.
 	Sincerely,
-	Lord Magistrate [[Laios Mentoros]]  
+	Lord Magistrate [[D&D/NPCs/Bad NPC/Laios Mentoros]]  
 	High Priest of the [[Court of Themus]]
 
 

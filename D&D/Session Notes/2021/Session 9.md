@@ -1,7 +1,7 @@
 DATE: 2021/11/09
 
 #Brass #dragon dude
-Clan name [[Tarius]]
+Clan name [[Ptarius]]
 passing between [[camter]] & [[porthladd]]
 
 figure appeared - tried to back away

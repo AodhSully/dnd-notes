@@ -8,137 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9c95e40928790be",
+            "id": "0ca573e937e7f2ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Items/Deck of Many Things.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4abe7a6e5a64f567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Places/Ythyri.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6be75df8a52ba13f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Items/Drugs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ab1ebd2a37f630d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Session Notes/2023/Session 76 - Big Yin 2 - Part 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb2fa5f6e9f7405d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Valar.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc6ec5770d729860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Places/Soup.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fa2b17daae5505a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/PCs/Deckheads/Luthien.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c0bf37d38f78ac9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/PCs/Deckheads/Marcelle Duchamps.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4bc94c14a8efc30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Places/werewolf camp.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff44eb33ad4ed65e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Session Notes/2023/Session 79 - Big Yin 2 - Part 7 - The Gathering 2.md",
+                "file": "D&D/NPCs/Groups/pitarius.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fladnag",
+                "query": "archibald",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 79 - Big Yin 2 - Part 7 - The Gathering 2.md",
+                "file": "D&D/NPCs/Groups/pitarius.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -240,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 79 - Big Yin 2 - Part 7 - The Gathering 2.md",
+                "file": "D&D/NPCs/Groups/pitarius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 79 - Big Yin 2 - Part 7 - The Gathering 2.md"
+                "file": "D&D/NPCs/Groups/pitarius.md"
               }
             }
           },
@@ -290,35 +172,35 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "ff44eb33ad4ed65e",
+  "active": "0ca573e937e7f2ab",
   "lastOpenFiles": [
-    "D&D/Session Notes/2023/Session 78 - Big Yin 2 - Part 6 - The Gathering.md",
-    "D&D/Session Notes/2023/Session 79 - Big Yin 2 - Part 7 - The Gathering 2.md",
-    "D&D/Session Notes/2023/Session 78 - Big Yin 2 - Part 5.md",
-    "D&D/Session Notes/2023/Session 78 - Big Yin 2 - Part 6.md",
-    "D&D/Session Notes/2022/Session 14.md",
-    "D&D/Session Notes/2023/Session 69.md",
-    "D&D/Session Notes/2023/Session 58.md",
-    "D&D/Items/Deck of Many Things.md",
-    "FuckHeads Kill Count.md",
-    "Kills.md",
-    "D&D/Session Notes/2023/Session 77 - Big Yin 2 - Part 4.md",
-    "D&D/Races/Deep Ones.md",
-    "D&D/IMG/Pasted image 20230621223754.png",
-    "Valar.md",
+    "D&D/NPCs/Groups/Ptarius.md",
+    "Tomb of the Sentinel.md",
+    "D&D/PCs/Deckheads/Marcelle Duchamps.md",
     "D&D/Places/Soup.md",
     "D&D/PCs/Deckheads/Luthien.md",
-    "D&D/Session Notes/2022/Session 15.md",
-    "D&D/PCs/Thunderfucks/Enva.md",
+    "D&D/Places/werewolf camp.md",
+    "D&D/PCs/Thunderfucks/Piff.md",
+    "Lyara Claiiyra.md",
+    "D&D/Session Notes/2023/Session 81 - Big Yin 2 - Part 9 - The Gathering 4.md",
+    "Tomb of the Wanderer.md",
+    "Oracle.md",
+    "D&D/Session Notes/2023/Session 72.md",
+    "D&D/Session Notes/2023/Session 69.md",
+    "D&D/Session Notes/2023/Session 68.md",
+    "D&D/Session Notes/2023/Session 67.md",
+    "D&D/Session Notes/2023/Session 66.md",
+    "D&D/Session Notes/2023/Session 65.md",
+    "D&D/Session Notes/2023/Session 64.md",
+    "D&D/Session Notes/2023/Session 73.md",
+    "D&D/Session Notes/2023/Session 70.md",
+    "D&D/Session Notes/2023/Session 71.md",
+    "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
+    "Valar.md",
+    "D&D/Session Notes/2023/Session 76 - Big Yin 2 - Part 3.md",
     "D&D/Items/Drugs.md",
     "D&D/Places/Ythyri.md",
-    "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
-    "D&D/Session Notes/2023/Session 75 - Big Yin 2 - Part 2.md",
-    "D&D/Session Notes/2023/Session 76 - Big Yin 2 - Part 3.md",
-    "D&D/PCs/Deckheads/Marcelle Duchamps.md",
-    "D&D/Places/werewolf camp.md",
-    "D&D/NPCs/Bad NPC/Brontes.md",
-    "D&D/Session Notes/2023/Session 67.md",
+    "D&D/IMG/Pasted image 20230621223754.png",
     "D&D/Calendar",
     "D&D/IMG/Pasted image 20230531210435.png",
     "D&D/IMG/Pasted image 20230525230700.png",
