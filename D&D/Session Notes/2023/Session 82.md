@@ -96,3 +96,11 @@ back of the bakery
 
 [[Py]] gets the baker feat!
 she now has a pet [[CinnaHamster]]
+![[Pasted image 20230713233430.png]]
+
+
+[[Enva]]s mum tries to get her to move home
+suggests an army marching on [[Gabel]] 
+offers to give [[Enva]] an elevated rank in the [[Wood Elf Army]]
+
+all the parents trying to guilt trip the kids into moving home 
