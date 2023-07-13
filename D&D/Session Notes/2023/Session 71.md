@@ -65,16 +65,16 @@ Something to do with a lost party member
 We are all tied together so if one person slipps off the mountain they dont fall to their deaths
 
 Something wicked came along 1 day ago. found a body on the [[Big Mountain]]
-Find 2, 8 legged tracks, only a few hours old, probably [[basalisk]]s
+Find 2, 8 legged tracks, only a few hours old, probably [[Basalisk]]s
 we see some spiky looking icy rocks - they look directly back at you
 low grumble as they get up
 
 D4 save +attacks
-[[basalisk]] AC = 14 
+[[Basalisk]] AC = 14 
 
-[[Kills]]  [[basalisk]] 1 [[Piff]]
-[[Py]] hits [[Bryne]] with a scorching ray - [[Bryne]] shouts back "***calm down luv***" [[nat1]] - [[basalisk]] fight
-[[Piff]] hits [[bryne]] with eldrich blast - [[nat1]] - [[basalisk]] fight 
+[[Kills]]  [[Basalisk]] 1 [[Piff]]
+[[Py]] hits [[Bryne]] with a scorching ray - [[Bryne]] shouts back "***calm down luv***" [[nat1]] - [[Basalisk]] fight
+[[Piff]] hits [[bryne]] with eldrich blast - [[nat1]] - [[Basalisk]] fight 
 
 
 

@@ -1,8 +1,8 @@
 DATE: 2023/05/16
 
-Long rest after the [[basalisk]] fight
+Long rest after the [[Basalisk]] fight
 
-See some old tracks that led towards the [[basalisk]] den
+See some old tracks that led towards the [[Basalisk]] den
 Up the [[Northern Mountains]]!!!
 
 Its been a week

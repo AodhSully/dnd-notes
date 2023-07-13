@@ -32,7 +32,7 @@ watch out for the elf outside - don't let him employ you
 
 [[Court of Themus]] cunts try to buy the book off [[Ollukaar]]
 
-[[Laios Mentoros]] - [[Court of Themus]] - bit of a cunt
+[[Laios Mentoros 1]] - [[Court of Themus]] - bit of a cunt
 
 [[Malira]] is wearing cuffs so that she cant cast magic
 

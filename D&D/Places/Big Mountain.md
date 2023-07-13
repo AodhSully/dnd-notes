@@ -1,4 +1,4 @@
-there be [[basalisk]]s here
+there be [[Basalisk]]s here
 [[Big Willow]] is up here somewhere
 #place 
 
