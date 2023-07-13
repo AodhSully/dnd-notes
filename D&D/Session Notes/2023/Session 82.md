@@ -104,3 +104,14 @@ suggests an army marching on [[Gabel]]
 offers to give [[Enva]] an elevated rank in the [[Wood Elf Army]]
 
 all the parents trying to guilt trip the kids into moving home 
+
+[[Ollukaar]] reads the book!
+
+cant be blinded petrified stunned or deafened
+ability score increase
+
+The [[Fey]] are begins to press [[Thraldur]]
+[[Porthladd]] has been convinced by the [[Court of Themus]]
+
+[[Aranelle]] after a few days wizards and clerics talking about her mothers death, though strange it seems she did die of a broken heart
+it may have been more so the fact that [[Aranelle]] was not guilty did her in, may have been a form of shock
