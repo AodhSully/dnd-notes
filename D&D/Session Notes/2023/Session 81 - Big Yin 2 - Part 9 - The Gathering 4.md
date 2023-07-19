@@ -57,7 +57,7 @@ if given 1 you'll have many or none" - choice
 
 "the beginning of the end and the end of before" - the letter E
 
-Got to meet the [[Oracle]]
+Got to meet the [[D&D/NPCs/Unknown aliegences/The Oracle]]
 
 [[Grom]] asked about [[Kyburn]] [[Lych]] phylactery - "This relic is shrouded, however from what I can it is hidden north inside rock, though it is shrouded in magic to stop any divination"
 
@@ -74,6 +74,6 @@ Got to meet the [[Oracle]]
 [[Relyth]] can you elaborate on the prophecy of [[Gabel]]s doom - "city heavily fortified, its doom may lie in its salvation"
 
 establish shrines worship and spread info about the tomb
-[[Oracle]] can be a patron
+[[D&D/NPCs/Unknown aliegences/The Oracle]] can be a patron
 there is also a [[Tomb of the Wanderer]] and the [[Tomb of the Sentinel]] 
 

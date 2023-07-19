@@ -3,3 +3,15 @@
 **Tomb of [[The Wanderer]]** _~ Western Chamber_ _"A spacious circular chamber with a large brazier in the centre of the room. The chamber being lit by this brazier, along with a number of smaller ones that hang from the ceiling. Bark and stone make up the walls of this tomb which are lined with numerous bookshelves that climb as high as the chamber allows before the ceiling comes to a dome. Trees seem to have grown along the stonework, stretched their branches out along the shelves and formed a twisted canopy overhead. Twelve podiums each holding open books stand a few feet toward the rooms centre, away from the shelving. At the furthest wall from the entry arch there stands a huge silver statue of a hooded masculine figure, clutching a large silver lantern in his left hand and a bow hanging by his side in the right. His lantern also seems to be the majority of this chambers light source. A stone sarcophagus lies by the base of the statue, remnants of a hatched red dragon egg are strewn along the floor"_ _**The Wanderer's Gratitude;**_ The gaunt masculine, yet slender, figure known as _'the Wanderer'_ has promised to bestow a gift upon those who go out into the world spreading news of this tomb and establish shrines devoted to his worship. He doesn't give detail as to what exactly this gift would entail, but he says it is a gift perhaps similar to that of a ranger, or druid. 
 
 **Tomb of [[The Sentinel]]** _~ Eastern Chamber_ "_A spacious circular chamber with a stone sarcophagus sitting in the direct centre. This chamber is lit by a number of torches that encircle the entirety of the tomb, affixed to the curved wall. A brazier hangs down from the centre of the domed ceiling and sheds light directly onto the sarcophagus below. At the furthest wall from the entry arch there stands a huge bronze statue of a figure completely clad in armour, gripping a greatsword in both hands with the tip of the blade pointed to the ground and the hilt inches from their chest. Other than that, this tomb seems to be empty."_ _**The Sentinel's Gratitude;**_ The armour-clad figure known as _'the Sentinel'_ has promised to bestow a gift upon those who go out into the world spreading news of this tomb and establish shrines devoted to their worship. They don't give detail as to what exactly this gift would entail, but they say it is a gift that perhaps may be of benefit to a fighter or a paladin. 
+
+
+[[The Oracle]] 
+	offers powers
+
+[[The Wanderer]] 
+	offers powers 
+	different powers to the [[D&D/NPCs/Unknown aliegences/The Oracle]]
+	wants you to set up shrines & discover new things
+
+[[The Sentinel]] 
+	set up shrines and spread the word of the tomb 

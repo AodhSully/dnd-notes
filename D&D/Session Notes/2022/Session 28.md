@@ -6,6 +6,6 @@ find [[owen]]
 
 blue bits on shield #dragon head
 
-tribes god - tribe is - surname [[pitarius]]
+tribes god - tribe is - surname [[Ptarius]]
 nomadic dragonborns
-[[pitarius]] - [[Ollukaar]] has mentioned
+[[Ptarius]] - [[Ollukaar]] has mentioned

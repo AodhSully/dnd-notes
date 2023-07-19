@@ -47,11 +47,10 @@ Got some bits from it including a spine and 2 meals worth of food
 
 Meanwhile - in [[Aranelle]]s head
 	voice of [[Dendar]]
-		Why dont you sit down?
+		Why don't you sit down?
 		I will let you wake once we have struck a deal
 		I have so much I can offer you
-		what could you gain from some glorified dragon sitting ion his pedestal doing nothing of greatness
-	
+		what could you gain from some glorified dragon sitting ion his pedestal doing nothing of greatness	
 		The is much I can offer you
 		especially with 1. especially with the item your party has (evil book)
         he was trying to persuade me to come to the darkness once more now that i made amends

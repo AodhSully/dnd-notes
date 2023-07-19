@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/NPCs/Unknown aliegences/Oracle.md",
+                "file": "D&D/NPCs/Unknown aliegences/The Oracle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tomb of three",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 83.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +195,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 83.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,9 +205,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "D&D/Session Notes/2023/Session 83.md"
-              }
+              "state": {}
             }
           },
           {
@@ -246,39 +242,39 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "ae719e7523560480",
+  "active": "11d82e8be88b5a5f",
   "lastOpenFiles": [
-    "Mr. Bag Man.md",
-    "D&D/Session Notes/2023/Session 83.md",
-    "D&D/PCs/Thunderfucks/Ryder.md",
-    "D&D/Items/Teardrop Gemstone.md",
-    "D&D/PCs/Thunderfucks/Sir Puddlesworth.md",
-    "D&D/IMG/Pasted image 20230719222614.png",
-    "D&D/NPCs/Bad Beasties/Remmer Haze.md",
-    "D&D/IMG/Pasted image 20230719215140.png",
-    "Platinum Dragon.md",
-    "D&D/Places/Kingdoms",
-    "D&D/Places/Kingdoms/KINGDOM OF TIIRYNUR.md",
-    "D&D/Places/Kingdoms/Kingdom of Sordun.md",
-    "D&D/PCs/Thunderfucks/Aranelle.md",
     "D&D/Session Notes/2023/Session 82.md",
-    "D&D/NPCs/Unknown aliegences/Oracle.md",
-    "Piffs Family/Reine des Glaces.md",
-    "D&D/Session Notes/2023/Session 81 - Big Yin 2 - Part 9 - The Gathering 4.md",
-    "Piffs Family/Otto Von Dog-Bark.md",
-    "D&D/NPCs/Gods/The Sentinel.md",
     "D&D/Places/The Tomb Of The Three.md",
+    "D&D/NPCs/Gods/The Sentinel.md",
     "D&D/NPCs/Gods/The Wanderer.md",
-    "FuckHeads Kill Count.md",
-    "D&D/NPCs/Bad NPC/Message To Grom.md",
+    "The Oracle.md",
+    "Piffs Family/Re Virnuv.md",
+    "Piffs Family/Grandad.md",
+    "D&D/NPCs/Bad Beasties/Barocthaar.md",
+    "D&D/Places/Tomb of the Sentinel.md",
+    "D&D/Session Notes/2023/Session 81 - Big Yin 2 - Part 9 - The Gathering 4.md",
+    "Sandy Beach.md",
+    "Relyth.md",
+    "Rocky.md",
+    "D&D/NPCs/Unknown aliegences/Peg.md",
+    "D&D/Races/CinnaHamster.md",
     "D&D/PCs/Thunderfucks/Py.md",
+    "Odi.md",
+    "D&D/NPCs/Unknown aliegences/Serilla.md",
+    "D&D/Session Notes/2022/Session 15.md",
+    "D&D/Session Notes/2022/Session 28.md",
+    "D&D/NPCs/Groups/Ptarius.md",
+    "D&D/NPCs/Groups/pitarius.md",
+    "D&D/Places/The Tree.md",
+    "D&D/NPCs/Unknown aliegences/Lyara Claiiyra.md",
+    "D&D/NPCs/Unknown aliegences/King Rowan Silveroak.md",
+    "D&D/NPCs/Unknown aliegences/Queen Aspen Valaren.md",
+    "D&D/IMG/Pasted image 20230719222614.png",
+    "D&D/IMG/Pasted image 20230719215140.png",
+    "D&D/Places/Kingdoms",
     "D&D/IMG/Pasted image 20230713233430.png",
     "D&D/IMG/Pasted image 20230713233755.png",
-    "D&D/Races/CinnaHamster.md",
-    "D&D/PCs/FarSeekers/Wylan.md",
-    "TODO.md",
-    "D&D/PCs/Thunderfucks/Piff.md",
-    "D&D/NPCs/Unknown aliegences/Elisthria.md",
     "D&D/IMG/Pasted image 20230713225018.png",
     "D&D/IMG/Pasted image 20230713224955.png",
     "D&D/IMG/Pasted image 20230621223754.png",
