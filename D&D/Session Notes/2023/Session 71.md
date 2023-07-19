@@ -7,7 +7,7 @@ DATE: 2023/05/09
 
 The shard that [[Py]]s conciousness was in is fucking with our heads
 
-The [[Tear drop gem]] is salty and smells like the ocean
+The [[Teardrop Gemstone]] is salty and smells like the ocean
 
 [[Aracocra Settlement]] is fairly silent even during the day
 
@@ -19,7 +19,7 @@ The [[Tear drop gem]] is salty and smells like the ocean
 		Total for the lot - 6500
 		We got the lot
 
-[[Aranelle]] casts identify object on the [[Tear drop gem]] 
+[[Aranelle]] casts identify object on the [[Teardrop Gemstone]] 
 It can cast modify memory if attuned to it
 has some form of enchantment
 unknown lingering effect

@@ -33,9 +33,9 @@ snake TRUE
 cepter
 trident
 sword
-something very tiny on the wall, small [[Tear drop gem]]
+something very tiny on the wall, small [[Teardrop Gemstone]]
 abduration divination
-plack said the [[Tear drop gem]] taken from [[Porthladd]]
+plack said the [[Teardrop Gemstone]] taken from [[Porthladd]]
 
 [[Py]] was sitting at a very clear pond by a willow tree while in the gem
 somewhere clearly high up in the mountains

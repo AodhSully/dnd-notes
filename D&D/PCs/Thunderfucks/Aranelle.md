@@ -1,5 +1,5 @@
 ---
-Race: High Elf
+Race: High Elf - 6ft2
 Who: Now full time Thunderfuck
 Where: Kingdom of Tiirynur
 	Town: Valar
@@ -8,6 +8,8 @@ When:
 Session No: 
 ---
 Info:
+[[Aranelle]] Lyraly
+AKA [[Vasha]]
 
 has the [[Lych]]s cape worth about 150k 
 

@@ -7,8 +7,8 @@ Up the [[Northern Mountains]]!!!
 
 Its been a week
 
-[[Bryne]] no longer confused - wibbly wobbly mind shit from the [[Tear drop gem]]
-[[Pinecone]] no longer confused - wibbly wobbly mind shit from the [[Tear drop gem]]
+[[Bryne]] no longer confused - wibbly wobbly mind shit from the [[Teardrop Gemstone]]
+[[Pinecone]] no longer confused - wibbly wobbly mind shit from the [[Teardrop Gemstone]]
 
 There be [[Dragons]] [[Fey]] [[fiend]] in them there hills
 
@@ -70,7 +70,7 @@ people can recover memories that they have lost
 
 [[Meg]] *The water brings back memories, but not necessarily your memories*
 
-[[Py]] goes into the lake, it starts off calm. she holds the [[Tear drop gem]] 
+[[Py]] goes into the lake, it starts off calm. she holds the [[Teardrop Gemstone]] 
 sees an unfamiliar woman
 her hair flows like water - deep blue eyes
 as she looks down

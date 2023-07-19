@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d8d593fbe75cd10",
+            "id": "3f8b4464a6e154ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FuckHeads Kill Count.md",
+                "file": "D&D/PCs/Thunderfucks/Aranelle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,38 @@
             }
           },
           {
-            "id": "3f8b4464a6e154ea",
+            "id": "dc14b60681b39e11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 82.md",
+                "file": "D&D/PCs/Thunderfucks/Ryder.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae719e7523560480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2023/Session 83.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1d849379f09f409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Places/Kingdoms/KINGDOM OF TIIRYNUR.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,19 +86,6 @@
             }
           },
           {
-            "id": "ef6a8a0bb0324e28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/NPCs/Gods/The Sentinel.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "11d82e8be88b5a5f",
             "type": "leaf",
             "state": {
@@ -81,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,12 +148,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 230.5
   },
   "right": {
     "id": "391c06d16cc10094",
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 82.md",
+                "file": "D&D/Session Notes/2023/Session 83.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 82.md",
+                "file": "D&D/Session Notes/2023/Session 83.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 82.md"
+                "file": "D&D/Session Notes/2023/Session 83.md"
               }
             }
           },
@@ -234,15 +246,30 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "3f8b4464a6e154ea",
+  "active": "ae719e7523560480",
   "lastOpenFiles": [
-    "D&D/NPCs/Unknown aliegences/Oracle.md",
-    "D&D/NPCs/Gods/The Wanderer.md",
-    "D&D/NPCs/Gods/The Sentinel.md",
-    "Piffs Family/Reine des Glaces.md",
-    "FuckHeads Kill Count.md",
+    "Mr. Bag Man.md",
+    "D&D/Session Notes/2023/Session 83.md",
+    "D&D/PCs/Thunderfucks/Ryder.md",
+    "D&D/Items/Teardrop Gemstone.md",
+    "D&D/PCs/Thunderfucks/Sir Puddlesworth.md",
+    "D&D/IMG/Pasted image 20230719222614.png",
+    "D&D/NPCs/Bad Beasties/Remmer Haze.md",
+    "D&D/IMG/Pasted image 20230719215140.png",
+    "Platinum Dragon.md",
+    "D&D/Places/Kingdoms",
+    "D&D/Places/Kingdoms/KINGDOM OF TIIRYNUR.md",
+    "D&D/Places/Kingdoms/Kingdom of Sordun.md",
     "D&D/PCs/Thunderfucks/Aranelle.md",
     "D&D/Session Notes/2023/Session 82.md",
+    "D&D/NPCs/Unknown aliegences/Oracle.md",
+    "Piffs Family/Reine des Glaces.md",
+    "D&D/Session Notes/2023/Session 81 - Big Yin 2 - Part 9 - The Gathering 4.md",
+    "Piffs Family/Otto Von Dog-Bark.md",
+    "D&D/NPCs/Gods/The Sentinel.md",
+    "D&D/Places/The Tomb Of The Three.md",
+    "D&D/NPCs/Gods/The Wanderer.md",
+    "FuckHeads Kill Count.md",
     "D&D/NPCs/Bad NPC/Message To Grom.md",
     "D&D/PCs/Thunderfucks/Py.md",
     "D&D/IMG/Pasted image 20230713233430.png",
@@ -250,22 +277,10 @@
     "D&D/Races/CinnaHamster.md",
     "D&D/PCs/FarSeekers/Wylan.md",
     "TODO.md",
-    "Piffs Family/Otto Von Dog-Bark.md",
     "D&D/PCs/Thunderfucks/Piff.md",
     "D&D/NPCs/Unknown aliegences/Elisthria.md",
-    "Piffs Family/Archibald Piffington ii.md",
-    "D&D/Items/Ersatz Eye.md",
     "D&D/IMG/Pasted image 20230713225018.png",
     "D&D/IMG/Pasted image 20230713224955.png",
-    "D&D/NPCs/Unknown aliegences/Morick The Dwarf.md",
-    "D&D/Races/Basalisk.md",
-    "D&D/NPCs/Groups/pitarius.md",
-    "D&D/Session Notes/2023/Session 81 - Big Yin 2 - Part 9 - The Gathering 4.md",
-    "D&D/Places/Valar.md",
-    "D&D/NPCs/Unknown aliegences/Lyara Claiiyra.md",
-    "D&D/NPCs/Bad NPC/Laios Mentoros 1.md",
-    "D&D/Places/The Tomb of Three.md",
-    "D&D/NPCs/Groups/Ptarius.md",
     "D&D/IMG/Pasted image 20230621223754.png",
     "D&D/Calendar",
     "D&D/IMG/Pasted image 20230531210435.png",
@@ -273,8 +288,6 @@
     "Piffs Family",
     "D&D/IMG",
     "D&D/IMG/Pasted image 20230516231652.png",
-    "D&D/IMG/Pasted image 20230516231025.png",
-    "D&D/IMG/Pasted image 20230516224756.png",
     "D&D/PCs/FarSeekers",
     "D&D/plugins/fantasy-calendar/data.json",
     "D&D/plugins/fantasy-calendar",
