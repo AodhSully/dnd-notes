@@ -1,34 +1,34 @@
 2021/07/02
 
-hole in manor from test firing canon
+[[Camter]] hole in manor from test firing canon
 
 Lord ? - overseeing the battle
 
 [[Enva]] Greenthorn #LIES 
 
-test firing the cannon - hole in the manor
+test firing the cannon = hole in the manor
 
 [[Green Dragon]] - 5/6 days away to dragon - 
 
 #Book - surviving a dragon attack
 [[Green Dragon]] - dear god! smart, trickery, dense forest - tricked into thinking you may be of use
 
-prismatic dragon?
+prismatic dragon? #dragon 
 green lizards chromatic
 
 
 
-[[Red Dragon]] - mountains deep strongholds magma volcanoes, lots of gold,
+[[Red Dragon]] - mountains deep strongholds magma volcanoes, lots of gold, #dragon 
 
 green -
 
 diagrams - so you want to be a soldier #scroll
 
 
-[[Fey]] creatures en route - some will kill, some will mess with you, teritorial, timey wimey stuff
+[[Fey]] creatures en route - some will kill, some will mess with you, territorial, timey wimey stuff
 
 connections to the group?
 
 #scroll of fireball
 
-[[Flumvin]] - attack a few weeks ago from green scale creatures
+[[Flumvin]] - attacked a few weeks ago from green scale creatures

@@ -49,14 +49,14 @@ a few days ago a funeral was held for know powerful #wizard that was slain in ba
 Crest found is brass dragon, wings outstretched spear going into the chest - chains wrapping round its wings
 
 [[Shadow Dragons]]
-[[Morman Darion]]
+[[Morman Darion]] #dragon 
 	necrotic
 	deadly in darkness
 	only true dragons can be shadow dragons
 	it is said - when they went to slay it, it became a living shadow
 
 #Book book lady reading --->
-[[Mindarion]] mendarians magical misadventures
+[[Mindarion]]s magical misadventures
 
 crest of this village [[Flumvin]] - ship with sun behind it  
 [[Thraldur]] - crown with shield  
@@ -66,10 +66,10 @@ noble warriors, army types
 #LIES
 was in the army for 100 years
 
-[[White Dragon]]
+[[White Dragon]] #dragon 
 they don't have much info --- high mountains / icy caves
 
-[[Green Dragon]]
+[[Green Dragon]] #dragon 
 	smart - treacherous
 	take pleasure in corrupting the good hearted
 	like ancient forests
@@ -83,7 +83,7 @@ they don't have much info --- high mountains / icy caves
 	fave treasure are sentient creatures the bend to its will
 	treasure - emeralds wood carvings, sculptures of humanoid subjects
 
-[[brass dragons]]
+[[brass dragons]] #dragon 
 	like hot climates
 	like to talk a lot
 	will stalk people who don't talk to it

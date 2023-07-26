@@ -39,7 +39,7 @@ Greyen
 
 
 
-old lady - [[Meg]]
+Meet an old lady - [[Meg]]
 swapped out her gold for copper
 cards castle in ruin on the card [[Deck of Many Things]]
 Nothing happened - apparently --- NUDE!!!

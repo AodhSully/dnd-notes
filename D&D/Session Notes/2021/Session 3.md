@@ -9,13 +9,13 @@ pressed to weapon
 
 creatures set fire to watermill
 
-festival of nobel suns #happenings
+festival of noble suns #happenings
 
 next in line to achieve titles as nobles/aers need to set out on a quest
 
-Nobels are human
+Nobles are human
 
-Green dragonborn killed & branded with #note left
+Green dragonborn killed & branded with a #note 
 	"broken promises"
 
 
@@ -23,7 +23,7 @@ Green dragonborn killed & branded with #note left
 
 Off to [[Flumvin]]!!!
 
-Stone with weird carving
+Find Stone with weird carving
 [[Sending stone]] to [[Green Daddy]]
 
 [[Dragons]] - you can harness magic from dragon blood
@@ -31,4 +31,4 @@ green scales
 
 [[Enva]] - "Tea Merchants"
 
-[[Green Daddy]] "Who are you" -
+[[Green Daddy]] "Who are you?" -

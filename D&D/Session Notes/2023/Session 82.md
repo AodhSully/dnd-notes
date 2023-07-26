@@ -4,12 +4,12 @@ In Game Date: 243-03-18
 
 
 [[The Tomb Of The Three]]
-The [[D&D/NPCs/Unknown aliegences/The Oracle]] 
+The [[The Oracle]] 
 	offers powers
 
 [[The Wanderer]] 
 	offers powers 
-	different powers to the [[D&D/NPCs/Unknown aliegences/The Oracle]]
+	different powers to the [[The Oracle]]
 	wants you to set up shrines & discover new things
 
 [[The Sentinel]] 

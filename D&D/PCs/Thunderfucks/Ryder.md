@@ -9,6 +9,8 @@ Session No: 82
 ---
 Info:
 
+Intern:
+
 has a tatoo of a topless halfling on a horse that moves and glows
 Monk
 

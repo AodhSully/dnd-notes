@@ -1,3 +1,14 @@
+---
+Race: Monster
+Who:
+Where: 
+	Town: En Route to [[Ryllyren]]
+	Place: From the bag of holding
+When: 2023-07-19
+Session No: 83
+---
+Info:
+
 [[Mr. Bag Man]] beastie is about 15ft tall
 you can see every detail of the bones under its skin
 ![[Pasted image 20230719222614.png]]

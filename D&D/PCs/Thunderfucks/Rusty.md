@@ -1,3 +1,19 @@
+---
+Race:
+Who:
+Where:
+	Town:
+	Place:
+When: 2023-07-26
+Session No:
+---
+Info:
+
+
+
+
+
+
 ## Sins
 Attempted Genocide
 trying to attak a little girl

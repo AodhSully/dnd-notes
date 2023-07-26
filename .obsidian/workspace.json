@@ -78,7 +78,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/NPCs/Unknown aliegences/The Oracle.md",
+                "file": "D&D/Session Notes/2023/Session 83.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c7dc44cfcccd082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2023/Session 83.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7f77a4b9702c3c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/NPCs/Bad Beasties/Remorhaz.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,12 +115,17 @@
             "id": "11d82e8be88b5a5f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "D&D/PCs/Thunderfucks/Ryder.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -123,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tomb of three",
+                "query": "oracle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,6 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/PCs/Thunderfucks/Ryder.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,6 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/PCs/Thunderfucks/Ryder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +238,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/PCs/Thunderfucks/Ryder.md"
+              }
             }
           },
           {
@@ -244,32 +279,32 @@
   },
   "active": "11d82e8be88b5a5f",
   "lastOpenFiles": [
-    "D&D/Session Notes/2023/Session 82.md",
-    "D&D/Places/The Tomb Of The Three.md",
-    "D&D/NPCs/Gods/The Sentinel.md",
-    "D&D/NPCs/Gods/The Wanderer.md",
-    "The Oracle.md",
-    "Piffs Family/Re Virnuv.md",
-    "Piffs Family/Grandad.md",
-    "D&D/NPCs/Bad Beasties/Barocthaar.md",
-    "D&D/Places/Tomb of the Sentinel.md",
-    "D&D/Session Notes/2023/Session 81 - Big Yin 2 - Part 9 - The Gathering 4.md",
-    "Sandy Beach.md",
-    "Relyth.md",
-    "Rocky.md",
-    "D&D/NPCs/Unknown aliegences/Peg.md",
-    "D&D/Races/CinnaHamster.md",
+    "D&D/PCs/Thunderfucks/Aranelle.md",
+    "D&D/PCs/Thunderfucks/Bryne.md",
+    "D&D/PCs/Thunderfucks/Cedric.md",
+    "D&D/PCs/Thunderfucks/Enva.md",
+    "D&D/PCs/Thunderfucks/Odi.md",
+    "D&D/PCs/Thunderfucks/Ollukaar.md",
+    "D&D/PCs/Thunderfucks/Piff.md",
+    "D&D/PCs/Thunderfucks/Pinecone.md",
     "D&D/PCs/Thunderfucks/Py.md",
-    "Odi.md",
-    "D&D/NPCs/Unknown aliegences/Serilla.md",
-    "D&D/Session Notes/2022/Session 15.md",
-    "D&D/Session Notes/2022/Session 28.md",
-    "D&D/NPCs/Groups/Ptarius.md",
-    "D&D/NPCs/Groups/pitarius.md",
-    "D&D/Places/The Tree.md",
-    "D&D/NPCs/Unknown aliegences/Lyara Claiiyra.md",
-    "D&D/NPCs/Unknown aliegences/King Rowan Silveroak.md",
-    "D&D/NPCs/Unknown aliegences/Queen Aspen Valaren.md",
+    "D&D/PCs/Thunderfucks/Rusty.md",
+    "D&D/PCs/Thunderfucks/Ryder.md",
+    "D&D/PCs/Thunderfucks/Tardon.md",
+    "D&D/PCs/FarSeekers/Adric.md",
+    "D&D/Session Notes/2021/Session 5.md",
+    "D&D/Session Notes/2021/Session 4.md",
+    "D&D/Session Notes/2021/Session 3.md",
+    "D&D/Session Notes/2021/Session 2.md",
+    "D&D/Session Notes/2021/Session 1.md",
+    "Shadow Dragons.md",
+    "D&D/Session Notes/2023/Session 78 - Big Yin 2 - Part 5.md",
+    "D&D/NPCs/Gods/The Oracle.md",
+    "D&D/NPCs/Bad Beasties/Remorhaz.md",
+    "D&D/Session Notes/2023/Session 83.md",
+    "TODO.md",
+    "D&D/NPCs/Unknown aliegences/The Oracle.md",
+    "D&D/Places/The Tomb Of The Three.md",
     "D&D/IMG/Pasted image 20230719222614.png",
     "D&D/IMG/Pasted image 20230719215140.png",
     "D&D/Places/Kingdoms",
