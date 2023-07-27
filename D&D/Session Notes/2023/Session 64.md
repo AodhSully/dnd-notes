@@ -23,6 +23,7 @@ meet a #pleaseasaur and a #puffin in beach world
 
 10k for a dragon egg
 
+[[Potion-Man McGee]]
 resistance
 cold
 water breathing
@@ -31,8 +32,9 @@ animal friendship
 fire
 gasious form
 mind reading
-deep red liquid in a vial
-Party potion
+
+Party potion - deep red liquid in a vial
+
 Staying in Sanctoms roost
 pixie dust
 
@@ -42,11 +44,15 @@ pixie dust
 	lamp light from outside
 	turns into an orb
 	orbs start multiplying
-	eveything looks much more vibrant
-	pincones scales are shifting
+	everything looks much more vibrant
+	pinecones scales are shifting
 	slithering along the ground
 	start hovering
 
 NARCS
 Elves who are no craic
 [[Piff]] & [[Enva]] kicked out of the Inn for being high
+
+[[Piff]] give [[Charlie]] some drugs - he gets smushed at lunch
+[[Enva]] speaks of [[The Wanderer]]
+

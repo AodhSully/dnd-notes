@@ -43,7 +43,7 @@ vampires gone
 
 Gerald
 
-[[rusty]] finds 3 acolites
+[[Rusty]] finds 3 acolites
 
 [[Ollukaar]] executes the book shopkeep
 

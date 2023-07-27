@@ -24,7 +24,7 @@ In! Light at the end of the tunnel
 scales FALSE
 snake TRUE
 
-[[pinecone]] turned to stone
+[[Pinecone]] turned to stone
 
 [[py]] unconsious
 [[enva]] dead
