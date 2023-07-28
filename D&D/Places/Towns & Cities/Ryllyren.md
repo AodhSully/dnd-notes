@@ -1,4 +1,6 @@
 #town 
+[[Piff]]s home town
+
 is in the mountain
 extends to a cliff edge
 on a flat portion

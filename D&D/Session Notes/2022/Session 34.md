@@ -10,13 +10,13 @@ DOOMED
 
 
 [[Godry Caiburn]]
-[[Beldor]] the jail in [[beldor]]
+[[Beldor]] the jail in [[Beldor]]
 Mage
 he is in league with [[black daddy]]!!!!!!!  
   
 The archmage Cyril [[Kyburn]] is an undead [[Lych]] (theory)
 
 [[Hemlock Foxglove]]
-[[Beldor]] the jail in [[beldor]]
+[[Beldor]] the jail in [[Beldor]]
 Paladin
 zone of truth dude

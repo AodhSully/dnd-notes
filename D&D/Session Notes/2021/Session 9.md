@@ -2,7 +2,7 @@ DATE: 2021/11/09
 
 #Brass #dragon dude
 Clan name [[Ptarius]]
-passing between [[camter]] & [[porthladd]]
+passing between [[Camter]] & [[Porthladd]]
 
 figure appeared - tried to back away
 transformed into a large #green #dragon

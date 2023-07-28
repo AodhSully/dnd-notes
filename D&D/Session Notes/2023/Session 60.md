@@ -20,7 +20,7 @@ The book wrecks things it touches
 
 [[Ollukaar]] confonts [[Aranelle]] about the book
 
-[[The Book]]
+[[The Book of Vile Darkness]]
 	Nature can’t abide the book’s presence. Ordinary plants wither in its presence, animals are unwilling to approach it, and the book gradually destroys whatever it touches. Even stone cracks and turns to powder if the book rests on it long enough.
 
 [[Aranelle]]s patron ---> The great old one

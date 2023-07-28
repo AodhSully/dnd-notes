@@ -74,6 +74,6 @@ Got to meet the [[The Oracle]]
 [[Relyth]] can you elaborate on the prophecy of [[Gabel]]s doom - "city heavily fortified, its doom may lie in its salvation"
 
 establish shrines worship and spread info about the tomb
-[[The Oracle]] can be a patron
+[[The Oracle]] can be a patron - [[The Tomb of the Oracle]]
 there is also a [[Tomb of the Wanderer]] and the [[Tomb of the Sentinel]] 
 

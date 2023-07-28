@@ -15,3 +15,5 @@
 
 [[The Sentinel]] 
 	set up shrines and spread the word of the tomb 
+
+Based south of [[Valar]]

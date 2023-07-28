@@ -10,8 +10,5 @@ Session No: 84
 Info:
 
 
-
-
-
 Guard at [[Casa Del Piffington]]
 

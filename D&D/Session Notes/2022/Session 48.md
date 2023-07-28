@@ -24,7 +24,7 @@ froze [[Ollukaar]]s hand in the bag of holding
 
 theres another [[green dragon]] in the forest
 
-made it back to [[pathcross]]
+made it back to [[Pathcross]]
 
 found the [[court of themus]]
 

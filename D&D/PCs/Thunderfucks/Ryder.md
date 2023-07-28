@@ -10,6 +10,7 @@ Session No: 82
 Info:
 
 Intern:
+Is known by [[Laurel]]
 
 has a tatoo of a topless halfling on a horse that moves and glows
 Monk

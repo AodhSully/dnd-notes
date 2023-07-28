@@ -27,6 +27,6 @@ But watch how you tread, watch where you go...for the lord of the domain will al
 
 
 Cyril [[Kyburn]]
-[[beldor]]
+[[Beldor]]
 in the basement of [[hat man]]
 Evil dude what sent us to fog world

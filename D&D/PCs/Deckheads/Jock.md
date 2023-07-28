@@ -9,4 +9,4 @@ Session No: 36
 ---
 Info:
 
-has [[The Book]]
+has [[The Book of Vile Darkness]]

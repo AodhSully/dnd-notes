@@ -47,7 +47,7 @@ Spell is called dawn
 contains a map
 skull drawn around where the village is
 circle a few days away from [[Rocknest]]
-circle between [[Camter]] and [[flumvin]]
+circle between [[Camter]] and [[Flumvin]]
 
 Where else?
 

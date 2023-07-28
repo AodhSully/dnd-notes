@@ -1,17 +1,14 @@
 ---
-Race:
+Race: [[CinnaHamster]]
 Who:
 Where:
-	Town:
-	Place:
+	Town: [[Valar]]
+	Place: The bakery near [[Mindarion]]s shop
 When: 2023-07-26
-Session No:
+Session No: 82
 ---
 Info:
 
-
-
-
-
-[[CinnaHamster]]
-[[Py]]s familiar
+[[Py]]s familiar/pet [[CinnaHamster]]
+[[Py]]s familiar - [[Odi]]
+![[Pasted image 20230713233755.png]]
