@@ -296,7 +296,7 @@ intention with the silver dragon was to kill it
 he mentioned perhaps getting power from both
 
 [[Enva]] starts to hear what she thinks is a gentile breeze at first
-but then turns inti words, whisper
+but then turns into words, whisper
 	Sooooo many secrets
 	secrets give power
 	the right secret could topple a kingdom
@@ -313,5 +313,13 @@ there's a strange familiarity to it for a moment
 
 you cant quite put a finger on who it is, its just familiar
 
-Whistle to [[Ollukaar]]
+Signal Whistle to [[Ollukaar]]
+
+- [x] bells x3
+- [x] rope x4
+- [x] shoves x2
+- [x] picks x2
+- [x] pitons x20 a pair for everyone
+- [x] signal whistle - Ollukaar
+- [x] climbers kit x1
 

@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "-session ",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -15,38 +15,24 @@
       }
     },
     {
-      "query": "Enva",
+      "query": "enva",
       "color": {
         "a": 1,
         "rgb": 16755200
       }
     },
     {
-      "query": "Antigone",
+      "query": "antigone",
       "color": {
         "a": 1,
         "rgb": 16774917
       }
     },
     {
-      "query": "Ollukaar",
+      "query": "ollukaar",
       "color": {
         "a": 1,
         "rgb": 16711680
-      }
-    },
-    {
-      "query": "Py",
-      "color": {
-        "a": 1,
-        "rgb": 7703280
-      }
-    },
-    {
-      "query": "Tardon",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
       }
     }
   ],
@@ -60,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 125,
-  "scale": 0.3096013002156157,
+  "scale": 0.0801367845112048,
   "close": false
 }
