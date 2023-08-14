@@ -2,13 +2,12 @@ DATE: 2023-08-02
 
 In Game Date: 243-03-26
 
-cave mouth is 20ft across & high just outside the village
-
+cave mouth is 20ft across & high just outside the village, [[Charlie]] sits at it entrance
 
 threatened [[Charlie]] 
 [[Pinecone]] bites him -8 ... [[Py]] heals him +6
 
-[[Charlie]] has powers
+[[Charlie]] has powers!?
 
 in to the cave
 we tread down
@@ -19,7 +18,7 @@ no echo in the chamber
 [[Sir Puddlesworth]] down one hall
 [[Sssssssteve 2]] down the other hall
 
-[[Sir Puddlesworth]] went down hall 1 on the left and poof out of existance
+[[Sir Puddlesworth]] went down hall 1 on the left and poof out of existence
 
 [[Sssssssteve 2]] sent down hall 1 on the right - sees a blue reptilian monster before the snake is snuffed out
 
@@ -39,7 +38,7 @@ something like 6-8 of them!
 big one AC 17
 small one AC 14
 
-Mirror Image
+Mirror Image round
 - [x] 1
 - [ ] 2
 - [ ] 3
@@ -62,3 +61,4 @@ thunderous smite somehow after using [[Oraculum]]
 [[Eryl]] and [[Tardon]] eaten by [[Remorhaz]]
 
 [[Ollukaar]] intimidates the shit out of [[Charlie]]
+

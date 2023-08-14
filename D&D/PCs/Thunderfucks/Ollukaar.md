@@ -11,7 +11,7 @@ Info:
 
 
 
-
+[[Ollukaar]] does not take sugar
 Is a member of clan [[Ptarius]]
 Lactose intolerant
 Does not listen
