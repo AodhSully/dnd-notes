@@ -42,6 +42,45 @@
             }
           },
           {
+            "id": "5c8ad398e36ded43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2023/Session 87 - Do not go gentle into that good night....md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6e9d3481a849487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "He Who walks on the wind.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7733c24da3fcf8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 88 - Summit Deplomacy.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "61f0c04951eccd02",
             "type": "leaf",
             "state": {
@@ -94,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -123,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bryne",
+                "query": "orac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 86 - Cave Solutions For Dummies.md",
+                "file": "Session 88 - Summit Deplomacy.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 86 - Cave Solutions For Dummies.md",
+                "file": "Session 88 - Summit Deplomacy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 86 - Cave Solutions For Dummies.md"
+                "file": "Session 88 - Summit Deplomacy.md"
               }
             }
           },
@@ -246,11 +285,17 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "af3c3800bc8067a7",
+  "active": "e7733c24da3fcf8c",
   "lastOpenFiles": [
+    "He Who walks on the wind.md",
+    "Session 88 - Summit Deplomacy.md",
+    "D&D/Session Notes/2023/Session 87 - Do not go gentle into that good night....md",
+    "D&D/IMG/Pasted image 20230816230559.png",
+    "D&D/Items/Oraculum.md",
+    "D&D/NPCs/Gods/Ithica.md",
+    "D&D/Session Notes/2023/Session 86 - Cave Solutions For Dummies.md",
     "D&D/NPCs/Bad Beasties/Nightgaunt.md",
     "D&D/IMG/Pasted image 20230809224045.png",
-    "D&D/Session Notes/2023/Session 86 - Cave Solutions For Dummies.md",
     "D&D/IMG/Pasted image 20230809220756.png",
     "D&D/NPCs/Bad Beasties/Wendego.md",
     "D&D/Session Notes/2023/Session 85.md",
@@ -271,10 +316,6 @@
     "Kills.md",
     "nat1.md",
     "TODO.md",
-    "D&D/Places/The Tomb of the Oracle.md",
-    "Re.md",
-    "D&D/Places/Big Willow.md",
-    "D&D/Places/Big Mountain.md",
     "D&D/Places/Towns & Cities",
     "D&D/Races/Dragons",
     "D&D/IMG/Pasted image 20230726231436.png",
@@ -287,7 +328,6 @@
     "D&D/IMG/Pasted image 20230713233755.png",
     "D&D/IMG/Pasted image 20230713225018.png",
     "D&D/IMG/Pasted image 20230713224955.png",
-    "D&D/IMG/Pasted image 20230621223754.png",
     "D&D/Calendar",
     "Piffs Family",
     "D&D/IMG",

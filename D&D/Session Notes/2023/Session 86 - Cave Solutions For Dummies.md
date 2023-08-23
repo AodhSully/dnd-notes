@@ -73,7 +73,14 @@ we meet these guys while looking for [[Charlie]]
 
 Initiative: 21 [[Ollukaar]], 20 [[Ryder]], 19 [[Bryne]], 16 [[Nightgaunt]], 10 [[Py]], 9 [[Aranelle]], 7 [[Tardon]]
 
+killed em all 
 
+[[Py]] found some runes when [[Charlie]] was sitting, she starts to scratch them out 
+some giant creature comes out
 
+[[Ollukaar]] attacks it
+[[Py]] afraid
+
+ 
 
 
