@@ -43,7 +43,7 @@ Her mummy is sick
 brothers in their room
 Her mum is  dead? a few days ago? maybe around the 14th/15th
 a familiar heat flowing up the stairs
-Oh! shit it the queen! [[Queen Aspen Valaren]]
+Oh! shit it the queen! [[D&D/NPCs/Unknown aliegences/Queen Aspen Solarin]]
 	she advised the proceedings should be suspended until [[Aranelle]] returned home
 Theres going to be a funeral tomorrow
 queen apologises for any mistreatment [[Aranelle]] may have received while on the run

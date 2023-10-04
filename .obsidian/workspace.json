@@ -8,92 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cc269440a25a4bd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "6afb1876c38a7d77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Session Notes/2023/Session 85.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af3c3800bc8067a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Session Notes/2023/Session 86 - Cave Solutions For Dummies.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c8ad398e36ded43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Session Notes/2023/Session 87 - Do not go gentle into that good night....md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6e9d3481a849487",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "He Who walks on the wind.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7733c24da3fcf8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Session Notes/2023/Session 88 - Summit Deplomacy.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77b52b25323bd8ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Session Notes/2023/Session 89 - Summit of the Inbetween.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a705f0bcbe185bf7",
             "type": "leaf",
             "state": {
@@ -104,12 +18,12 @@
             }
           },
           {
-            "id": "98da58123b5f63cf",
+            "id": "4dcead869f88d988",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 90 - Summit of the Inbetween.md",
+                "file": "D&D/Session Notes/2023/Session 92 - War.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,12 +31,12 @@
             }
           },
           {
-            "id": "632f244135958fae",
+            "id": "d315768e705e5313",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 91 - One minute to midnight.md",
+                "file": "Helgin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,64 +44,12 @@
             }
           },
           {
-            "id": "8307698e3c9f9b54",
+            "id": "b15fa5b6ea1b3942",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shar.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61f0c04951eccd02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/NPCs/Bad Beasties/Nightgaunt.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5013b6a82d9d8541",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/PCs/Thunderfucks/Ollukaar.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "308f41ecd78400a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/PCs/Thunderfucks/Bryne.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3163edc46ad650ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/NPCs/Bad Beasties/Remorhaz.md",
+                "file": "D&D/NPCs/Unknown aliegences/Queen Aspen Solarin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -195,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bag man",
+                "query": "perc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -249,7 +111,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -269,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 91 - One minute to midnight.md",
+                "file": "D&D/Session Notes/2023/Session 92 - War.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -297,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 91 - One minute to midnight.md",
+                "file": "D&D/Session Notes/2023/Session 92 - War.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 91 - One minute to midnight.md"
+                "file": "D&D/Session Notes/2023/Session 92 - War.md"
               }
             }
           },
@@ -327,6 +190,16 @@
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
+            }
+          },
+          {
+            "id": "bb4a4285264c4270",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -347,38 +220,39 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "36d76cfab0226f73",
+  "active": "4dcead869f88d988",
   "lastOpenFiles": [
-    "D&D/Session Notes/2023/Session 90 - Summit of the Inbetween.md",
+    "D&D/Session Notes/2022/Session 35.md",
+    "D&D/Session Notes/2023/Session 92 - War.md",
+    "Helgin.md",
+    "D&D/NPCs/Unknown aliegences/Queen Aspen Solarin.md",
+    "Queen Aspen Solarin.md",
     "D&D/Session Notes/2023/Session 91 - One minute to midnight.md",
-    "Pasted image 20230906220803.png",
+    "D&D/Session Notes/2023/Session 89 - Summit of the Inbetween.md",
+    "D&D/Session Notes/2023/Session 88 - Summit Deplomacy.md",
+    "D&D/NPCs/Gods/He Who walks on the wind.md",
+    "D&D/Session Notes/2023/Session 87 - Do not go gentle into that good night....md",
+    "D&D/Session Notes/2023/Session 86 - Cave Solutions For Dummies.md",
+    "D&D/Session Notes/2023/Session 85.md",
+    "D&D/Session Notes/2023/Session 90 - Summit of the Inbetween.md",
+    "D&D/NPCs/Gods/Shar.md",
+    "D&D/NPCs/Bad Beasties/Nightgaunt.md",
+    "D&D/NPCs/Bad NPC/Laios Mentoros 1.md",
+    "D&D/NPCs/Bad NPC/Laios Mentoros.md",
+    "D&D/PCs/Thunderfucks/Ollukaar.md",
+    "TODO.md",
+    "D&D/IMG/Pasted image 20230906220803.png",
     "D&D/Places/Towns & Cities/Crystwy.md",
     "D&D/Places/Towns & Cities/Flumvin.md",
     "D&D/Places/Towns & Cities/Beldor.md",
-    "TODO.md",
-    "D&D/Session Notes/2023/Session 89 - Summit of the Inbetween.md",
-    "D&D/Session Notes/2023/Session 88 - Summit Deplomacy.md",
-    "Shar.md",
     "D&D/NPCs/Bad Beasties/Mr. Bag Man.md",
     "FuckHeads Kill Count.md",
-    "D&D/Session Notes/2023/Session 87 - Do not go gentle into that good night....md",
     "D&D/Session Notes/2023/Session 83.md",
     "D&D/Session Notes/2023/Session 84.md",
-    "D&D/Session Notes/2023/Session 85.md",
-    "D&D/Session Notes/2023/Session 86 - Cave Solutions For Dummies.md",
     "D&D/IMG/Pasted image 20230823224945.png",
-    "D&D/NPCs/Gods/Ithica.md",
-    "He Who walks on the wind.md",
     "D&D/IMG/Pasted image 20230816230559.png",
-    "D&D/Items/Oraculum.md",
-    "D&D/NPCs/Bad Beasties/Nightgaunt.md",
     "D&D/IMG/Pasted image 20230809224045.png",
     "D&D/IMG/Pasted image 20230809220756.png",
-    "D&D/NPCs/Bad Beasties/Wendego.md",
-    "D&D/PCs/Thunderfucks/Ollukaar.md",
-    "D&D/Session Notes/2023/Session 82.md",
-    "D&D/PCs/Thunderfucks/Bryne.md",
-    "D&D/NPCs/Bad Beasties/Remorhaz.md",
     "D&D/Places/Towns & Cities",
     "D&D/Races/Dragons",
     "D&D/IMG/Pasted image 20230726231436.png",

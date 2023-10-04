@@ -40,7 +40,7 @@ Someone with the emblem of [[Beldor]]
 [[Beldor]]
 [[Camter]] - [[Lord Bradwyn]]
 [[Crystwy]]
-[[Flumvin]]
+[[Flumvin]] - [[Alondy Sperackis]] (leader)
 
 leaders of [[Porthladd]] and gable have not been informed of the meeting
 they have been kept waiting

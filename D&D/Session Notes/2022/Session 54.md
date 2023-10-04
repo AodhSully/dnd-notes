@@ -46,7 +46,7 @@ Immense heat through the corridorr
 silver cepter with an orb at the top
 phoenix on the breast late
 [[Royals of Valar]]
-[[Queen Aspen Valaren]]
+[[D&D/NPCs/Unknown aliegences/Queen Aspen Solarin]]
 [[Solace]] sends his regards
 
 #item a single wind chime left with [[Enva]]

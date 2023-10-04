@@ -1,2 +1,2 @@
 Daughter of [[King Rowan Silveroak]]
-Daughter of [[Queen Aspen Valaren]]
+Daughter of [[D&D/NPCs/Unknown aliegences/Queen Aspen Solarin]]
