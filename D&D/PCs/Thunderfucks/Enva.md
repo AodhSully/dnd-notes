@@ -9,7 +9,7 @@ Session No: 1
 ---
 Info:
 
-
+aka [[Thunder Elf]]
 
 [[Enva]] has [[Ersatz Eye]] in her face - cost her 10k not sure she has paid it back
 Owns [[Pinecone]]

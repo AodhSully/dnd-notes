@@ -52,7 +52,8 @@ gable has allied with [[Porthladd]] as a result
 there are allegations on the [[Court of Themus]] for conspiring with vampires
 they may have organised the royals death
 
-A helm of disjunction
+[[A helm of Disjunction]] - It Negates Magic
+
 ![[Pasted image 20230906220803.png]]
 
 Summit to be held in either [[Athiera]] or [[Forlyn]]

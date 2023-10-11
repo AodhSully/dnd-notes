@@ -18,6 +18,8 @@ AC 22
 	is a follower of the [[knights of valour]]
 
 [[Queck]] messenger off to [[Ryllyren]] has 1 [[Sending Stone]] - 25 days
+ETA - 243-5-4
+
 
 Captain [[Janice]] in [[Thraldur]]
 

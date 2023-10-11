@@ -11,9 +11,12 @@
             "id": "a705f0bcbe185bf7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "D&D/PCs/Thunderfucks/Enva.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -23,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 92 - War.md",
+                "file": "D&D/Session Notes/2023/Session 93 - Gable.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2baf9a6b89e66bdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2022/Session 54.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,13 +50,8 @@
             "id": "d315768e705e5313",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Helgin.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -86,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "perc",
+                "query": "thraldur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 92 - War.md",
+                "file": "D&D/Session Notes/2023/Session 93 - Gable.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 92 - War.md",
+                "file": "D&D/Session Notes/2023/Session 93 - Gable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 92 - War.md"
+                "file": "D&D/Session Notes/2023/Session 93 - Gable.md"
               }
             }
           },
@@ -222,19 +232,24 @@
   },
   "active": "4dcead869f88d988",
   "lastOpenFiles": [
-    "D&D/Session Notes/2022/Session 35.md",
+    "D&D/Session Notes/2023/Session 90 - Summit of the Inbetween.md",
+    "D&D/Session Notes/2023/Session 91 - One minute to midnight.md",
     "D&D/Session Notes/2023/Session 92 - War.md",
+    "D&D/Session Notes/2023/Session 93 - Gable.md",
     "Helgin.md",
+    "D&D/PCs/Thunderfucks/Enva.md",
+    "D&D/Session Notes/2022/Session 54.md",
+    "D&D/Places/Rusty Hinges.md",
+    "D&D/PCs/Thunderfucks/Ex-Thunderfucks/Rusty.md",
+    "D&D/Session Notes/2022/Session 35.md",
     "D&D/NPCs/Unknown aliegences/Queen Aspen Solarin.md",
     "Queen Aspen Solarin.md",
-    "D&D/Session Notes/2023/Session 91 - One minute to midnight.md",
     "D&D/Session Notes/2023/Session 89 - Summit of the Inbetween.md",
     "D&D/Session Notes/2023/Session 88 - Summit Deplomacy.md",
     "D&D/NPCs/Gods/He Who walks on the wind.md",
     "D&D/Session Notes/2023/Session 87 - Do not go gentle into that good night....md",
     "D&D/Session Notes/2023/Session 86 - Cave Solutions For Dummies.md",
     "D&D/Session Notes/2023/Session 85.md",
-    "D&D/Session Notes/2023/Session 90 - Summit of the Inbetween.md",
     "D&D/NPCs/Gods/Shar.md",
     "D&D/NPCs/Bad Beasties/Nightgaunt.md",
     "D&D/NPCs/Bad NPC/Laios Mentoros 1.md",
@@ -244,11 +259,6 @@
     "D&D/IMG/Pasted image 20230906220803.png",
     "D&D/Places/Towns & Cities/Crystwy.md",
     "D&D/Places/Towns & Cities/Flumvin.md",
-    "D&D/Places/Towns & Cities/Beldor.md",
-    "D&D/NPCs/Bad Beasties/Mr. Bag Man.md",
-    "FuckHeads Kill Count.md",
-    "D&D/Session Notes/2023/Session 83.md",
-    "D&D/Session Notes/2023/Session 84.md",
     "D&D/IMG/Pasted image 20230823224945.png",
     "D&D/IMG/Pasted image 20230816230559.png",
     "D&D/IMG/Pasted image 20230809224045.png",
