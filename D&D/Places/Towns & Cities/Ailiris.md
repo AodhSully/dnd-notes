@@ -8,3 +8,5 @@ Not much housing
 Large Inn - Sanctums roost  
 Tavern - Mage Codex 
 Bakery - Quills Cake
+Potion Man McGee is from here
+

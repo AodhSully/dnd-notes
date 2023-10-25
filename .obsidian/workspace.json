@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/PCs/Thunderfucks/Enva.md",
+                "file": "D&D/Session Notes/2023/Session 93 - Gable.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f9e3b182f6abe9da",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
               }
             }
           },
@@ -26,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 93 - Gable.md",
+                "file": "D&D/Places/Towns & Cities/Ailiris.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thraldur",
+                "query": "save",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +132,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,14 +241,18 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "4dcead869f88d988",
+  "active": "f9e3b182f6abe9da",
   "lastOpenFiles": [
+    "D&D/Places/Towns & Cities/Thraldur.md",
+    "TODO.md",
+    "D&D/Session Notes/2022/Session 50.md",
+    "D&D/Session Notes/2023/Session 93 - Gable.md",
+    "D&D/PCs/Thunderfucks/Enva.md",
+    "D&D/Places/Towns & Cities/Ailiris.md",
     "D&D/Session Notes/2023/Session 90 - Summit of the Inbetween.md",
     "D&D/Session Notes/2023/Session 91 - One minute to midnight.md",
     "D&D/Session Notes/2023/Session 92 - War.md",
-    "D&D/Session Notes/2023/Session 93 - Gable.md",
     "Helgin.md",
-    "D&D/PCs/Thunderfucks/Enva.md",
     "D&D/Session Notes/2022/Session 54.md",
     "D&D/Places/Rusty Hinges.md",
     "D&D/PCs/Thunderfucks/Ex-Thunderfucks/Rusty.md",
@@ -254,11 +269,7 @@
     "D&D/NPCs/Bad Beasties/Nightgaunt.md",
     "D&D/NPCs/Bad NPC/Laios Mentoros 1.md",
     "D&D/NPCs/Bad NPC/Laios Mentoros.md",
-    "D&D/PCs/Thunderfucks/Ollukaar.md",
-    "TODO.md",
     "D&D/IMG/Pasted image 20230906220803.png",
-    "D&D/Places/Towns & Cities/Crystwy.md",
-    "D&D/Places/Towns & Cities/Flumvin.md",
     "D&D/IMG/Pasted image 20230823224945.png",
     "D&D/IMG/Pasted image 20230816230559.png",
     "D&D/IMG/Pasted image 20230809224045.png",
