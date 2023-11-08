@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a705f0bcbe185bf7",
+            "id": "b6767d349eb3235d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,16 +17,6 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f9e3b182f6abe9da",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
               }
             }
           },
@@ -49,7 +39,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Session Notes/2022/Session 54.md",
+                "file": "D&D/Session Notes/2023/Session 95.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b14f15dbf79aa181",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8f44e064b4d327e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/NPCs/Bad NPC/Lych.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,12 +143,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 360.5
   },
   "right": {
     "id": "391c06d16cc10094",
@@ -241,34 +251,34 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "f9e3b182f6abe9da",
+  "active": "b14f15dbf79aa181",
   "lastOpenFiles": [
+    "D&D/NPCs/Unknown aliegences/Heskir.md",
+    "D&D/Items/Ersatz Eye.md",
+    "D&D/NPCs/Unknown aliegences/Wes Wenby wendal Hillfellow.md",
+    "D&D/Session Notes/2023/Session 96 - Mission Improbable.md",
+    "D&D/Session Notes/2023/Session 92 - War.md",
+    "D&D/Session Notes/2023/Session 93 - Gable.md",
+    "D&D/Session Notes/2023/Session 95.md",
+    "D&D/Session Notes/2023/Session 91 - One minute to midnight.md",
+    "D&D/Session Notes/2023/Session 78 - Big Yin 2 - Part 5.md",
+    "D&D/Session Notes/2023/Session 77 - Big Yin 2 - Part 4.md",
+    "D&D/Session Notes/2023/Session 76 - Big Yin 2 - Part 3.md",
+    "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
+    "D&D/Session Notes/2023/Session 73.md",
+    "D&D/Session Notes/2023/Session 72.md",
+    "D&D/Session Notes/2023/Session 84.md",
+    "D&D/Session Notes/2023/Session 85.md",
+    "D&D/NPCs/Bad NPC/Lych.md",
+    "D&D/Places/Northern Mountains.md",
+    "D&D/Session Notes/2022/Session 54.md",
     "D&D/Places/Towns & Cities/Thraldur.md",
     "TODO.md",
     "D&D/Session Notes/2022/Session 50.md",
-    "D&D/Session Notes/2023/Session 93 - Gable.md",
     "D&D/PCs/Thunderfucks/Enva.md",
     "D&D/Places/Towns & Cities/Ailiris.md",
     "D&D/Session Notes/2023/Session 90 - Summit of the Inbetween.md",
-    "D&D/Session Notes/2023/Session 91 - One minute to midnight.md",
-    "D&D/Session Notes/2023/Session 92 - War.md",
     "Helgin.md",
-    "D&D/Session Notes/2022/Session 54.md",
-    "D&D/Places/Rusty Hinges.md",
-    "D&D/PCs/Thunderfucks/Ex-Thunderfucks/Rusty.md",
-    "D&D/Session Notes/2022/Session 35.md",
-    "D&D/NPCs/Unknown aliegences/Queen Aspen Solarin.md",
-    "Queen Aspen Solarin.md",
-    "D&D/Session Notes/2023/Session 89 - Summit of the Inbetween.md",
-    "D&D/Session Notes/2023/Session 88 - Summit Deplomacy.md",
-    "D&D/NPCs/Gods/He Who walks on the wind.md",
-    "D&D/Session Notes/2023/Session 87 - Do not go gentle into that good night....md",
-    "D&D/Session Notes/2023/Session 86 - Cave Solutions For Dummies.md",
-    "D&D/Session Notes/2023/Session 85.md",
-    "D&D/NPCs/Gods/Shar.md",
-    "D&D/NPCs/Bad Beasties/Nightgaunt.md",
-    "D&D/NPCs/Bad NPC/Laios Mentoros 1.md",
-    "D&D/NPCs/Bad NPC/Laios Mentoros.md",
     "D&D/IMG/Pasted image 20230906220803.png",
     "D&D/IMG/Pasted image 20230823224945.png",
     "D&D/IMG/Pasted image 20230816230559.png",

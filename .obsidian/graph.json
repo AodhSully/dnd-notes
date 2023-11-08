@@ -34,6 +34,41 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "Ryder",
+      "color": {
+        "a": 1,
+        "rgb": 16749824
+      }
+    },
+    {
+      "query": "Tardon",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "Py",
+      "color": {
+        "a": 1,
+        "rgb": 16449791
+      }
+    },
+    {
+      "query": "bryne",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "lych",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 125,
-  "scale": 0.12102024442734555,
+  "scale": 0.6554983534948388,
   "close": false
 }
