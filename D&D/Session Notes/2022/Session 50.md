@@ -26,7 +26,7 @@ took our poison
 
 [[Heskir]] - Dragonbourne - [[Thraldur]]  - [[Bahamut]]s Temple - #Healer
 
-[[Wes Wenby wendal Hillfellow]] - [[Thraldur]] 
+[[Wes Wenby Wendal Hillfellow]] - [[Thraldur]] 
 [[Tardon]]s Temple
 gave expo on vamires & [[Court of Themus]]
 
