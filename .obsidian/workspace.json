@@ -34,6 +34,32 @@
             }
           },
           {
+            "id": "e2a62f27a1bdfc28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2023/Session 100 - Divine Intervention.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00e48cc2467ea7f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/NPCs/Good NPC/Duke of Beldor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b8f44e064b4d327e",
             "type": "leaf",
             "state": {
@@ -73,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 97 - Retreat (Question).md",
+                "file": "D&D/NPCs/Good NPC/Duke of Beldor.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 97 - Retreat (Question).md",
+                "file": "D&D/NPCs/Good NPC/Duke of Beldor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 97 - Retreat (Question).md"
+                "file": "D&D/NPCs/Good NPC/Duke of Beldor.md"
               }
             }
           },
@@ -237,8 +263,14 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "726a404cbfb6a653",
+  "active": "00e48cc2467ea7f2",
   "lastOpenFiles": [
+    "D&D/Session Notes/2023/Session 100 - Divine Intervention.md",
+    "D&D/Session Notes/2023/Session 99 - Death.md",
+    "D&D/NPCs/Good NPC/Duke of Beldor.md",
+    "Pasted image 20240201150600.png",
+    "D&D/Session Notes/2023/Session 97 - Retreat (Question).md",
+    "D&D/Session Notes/2023/Session 96 - Mission Improbable.md",
     "D&D/Session Notes/2023/Session 92 - War.md",
     "D&D/Session Notes/2023/Session 87 - Do not go gentle into that good night....md",
     "D&D/Session Notes/2023/Session 88 - Summit Deplomacy.md",
@@ -247,8 +279,6 @@
     "D&D/Session Notes/2023/Session 91 - One minute to midnight.md",
     "D&D/Session Notes/2023/Session 93 - Gable.md",
     "D&D/Session Notes/2023/Session 95.md",
-    "D&D/Session Notes/2023/Session 96 - Mission Improbable.md",
-    "D&D/Session Notes/2023/Session 97 - Retreat (Question).md",
     "D&D/Items/Ersatz Eye.md",
     "D&D/NPCs/Unknown aliegences/Wes Wenby Wendal Hillfellow.md",
     "D&D/Places/Towns & Cities/Ailiris.md",
@@ -262,9 +292,6 @@
     "D&D/Session Notes/2023/Session 84.md",
     "D&D/Session Notes/2023/Session 85.md",
     "D&D/NPCs/Bad NPC/Lych.md",
-    "D&D/Places/Northern Mountains.md",
-    "D&D/Session Notes/2022/Session 54.md",
-    "D&D/Places/Towns & Cities/Thraldur.md",
     "D&D/IMG/Pasted image 20230906220803.png",
     "D&D/IMG/Pasted image 20230823224945.png",
     "D&D/IMG/Pasted image 20230816230559.png",
@@ -279,7 +306,6 @@
     "D&D/IMG/Pasted image 20230719215140.png",
     "D&D/Places/Kingdoms",
     "D&D/IMG/Pasted image 20230713233430.png",
-    "D&D/IMG/Pasted image 20230713233755.png",
     "D&D/Calendar",
     "Piffs Family",
     "D&D/IMG",
