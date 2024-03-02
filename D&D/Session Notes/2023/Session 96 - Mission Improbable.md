@@ -22,7 +22,7 @@ Old lady tells the future...
 	and a black cloud emanating from the horn
 	they were wearing armour
 
-pulled a card - can ask a question within 1 year and receive a truthful answer
+[[Piff]] and [[Ollukaar]] pulled a card - can ask a question within 1 year and receive a truthful answer [[TODO]]
 
 Theres undead and plant people at the stronghold
 they might be "Blights", they can be a problem, if there are many of them

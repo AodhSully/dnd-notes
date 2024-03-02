@@ -1,10 +1,12 @@
 ### Shift + Space for checkbox
 - [ ] 
-- [ ] find the dragon hoard
+- [ ] find the White dragon hoard in the mountains
 - [ ] get a [[White Dragon Potion]] from [[Mildred Hopsockle]]
 - [ ] Free [[Gabel]]
 - [x] Go to the family "farm" find out whats going on with the cavern that opened up when they were chipping away at the ice
 - [x] To the summit
-- [ ] To [[Ryllyren]] - save [[The Piffingtons]]
+- [x] To [[Ryllyren]] - save [[The Piffingtons]]
+- [ ] [[Queck]] is on his way to [[Ryllyren]] - Due on 243-5-4
+- [x] Read grandads diary
 - [ ] 
 - [ ] 

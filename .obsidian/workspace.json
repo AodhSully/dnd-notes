@@ -13,7 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 97 - Retreat (Question).md",
+                "file": "D&D/Session Notes/2023/Session 103 - 36 miles from Gabel.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1d3fa0d3387abdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2023/Session 104 - The Initial Strike.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2be87c1ebdf05eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2023/Session 104 - The Initial Strike.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67404aeeab7211ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/PCs/Thunderfucks/Lister.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "350fc88314fda6f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2023/Session 102 - And then there were six.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4952a0d99186c0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harper.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +117,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/NPCs/Good NPC/Duke of Beldor.md",
+                "file": "D&D/Session Notes/2023/Session 100 - Divine Intervention.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b5f452251416db8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2023/Session 101 - To Gable.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "save",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 262.5
   },
   "right": {
     "id": "391c06d16cc10094",
@@ -173,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/NPCs/Good NPC/Duke of Beldor.md",
+                "file": "D&D/Session Notes/2023/Session 104 - The Initial Strike.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -201,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/NPCs/Good NPC/Duke of Beldor.md",
+                "file": "D&D/Session Notes/2023/Session 104 - The Initial Strike.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/NPCs/Good NPC/Duke of Beldor.md"
+                "file": "D&D/Session Notes/2023/Session 104 - The Initial Strike.md"
               }
             }
           },
@@ -263,35 +341,35 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "00e48cc2467ea7f2",
+  "active": "2be87c1ebdf05eb1",
   "lastOpenFiles": [
-    "D&D/Session Notes/2023/Session 100 - Divine Intervention.md",
+    "D&D/PCs/Thunderfucks/Lister.md",
+    "D&D/Session Notes/2023/Session 104 - The Initial Strike.md",
+    "D&D/Session Notes/2023/Session 102 - And then there were six.md",
+    "D&D/Session Notes/2023/Session 101 - To Gable.md",
     "D&D/Session Notes/2023/Session 99 - Death.md",
-    "D&D/NPCs/Good NPC/Duke of Beldor.md",
-    "Pasted image 20240201150600.png",
-    "D&D/Session Notes/2023/Session 97 - Retreat (Question).md",
-    "D&D/Session Notes/2023/Session 96 - Mission Improbable.md",
-    "D&D/Session Notes/2023/Session 92 - War.md",
-    "D&D/Session Notes/2023/Session 87 - Do not go gentle into that good night....md",
-    "D&D/Session Notes/2023/Session 88 - Summit Deplomacy.md",
-    "D&D/Session Notes/2023/Session 89 - Summit of the Inbetween.md",
-    "D&D/Session Notes/2023/Session 90 - Summit of the Inbetween.md",
-    "D&D/Session Notes/2023/Session 91 - One minute to midnight.md",
-    "D&D/Session Notes/2023/Session 93 - Gable.md",
-    "D&D/Session Notes/2023/Session 95.md",
-    "D&D/Items/Ersatz Eye.md",
-    "D&D/NPCs/Unknown aliegences/Wes Wenby Wendal Hillfellow.md",
-    "D&D/Places/Towns & Cities/Ailiris.md",
-    "D&D/NPCs/Unknown aliegences/Heskir.md",
-    "D&D/Session Notes/2023/Session 78 - Big Yin 2 - Part 5.md",
-    "D&D/Session Notes/2023/Session 77 - Big Yin 2 - Part 4.md",
-    "D&D/Session Notes/2023/Session 76 - Big Yin 2 - Part 3.md",
-    "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
+    "D&D/Session Notes/2023/Session 100 - Divine Intervention.md",
+    "D&D/Session Notes/2023/Session 103 - 36 miles from Gabel.md",
+    "TODO.md",
+    "Ouoth.md",
+    "Pasted image 20240228210149.png",
+    "Harper.md",
+    "D&D/PCs/Thunderfucks/Ryder.md",
+    "Helgin.md",
+    "Untitled 1.md",
+    "D&D/PCs/Thunderfucks/Thunder Fucks.md",
+    "D&D/PCs/Thunderfucks/Tardon.md",
+    "2024-02-21.md",
+    "FuckHeads Kill Count.md",
+    "2024-02-14.md",
+    "D&D/IMG/Pasted image 20240201150600.png",
+    "D&D/Items/Oraculum.md",
     "D&D/Session Notes/2023/Session 73.md",
-    "D&D/Session Notes/2023/Session 72.md",
-    "D&D/Session Notes/2023/Session 84.md",
-    "D&D/Session Notes/2023/Session 85.md",
-    "D&D/NPCs/Bad NPC/Lych.md",
+    "D&D/NPCs/Good NPC/Duke of Beldor.md",
+    "D&D/Session Notes/2023/Untitled.md",
+    "D&D/Session Notes/2023/Session 96 - Mission Improbable.md",
+    "D&D/Session Notes/2023/Session 97 - Retreat (Question).md",
+    "D&D/Session Notes/2023/Session 92 - War.md",
     "D&D/IMG/Pasted image 20230906220803.png",
     "D&D/IMG/Pasted image 20230823224945.png",
     "D&D/IMG/Pasted image 20230816230559.png",
@@ -305,7 +383,6 @@
     "D&D/IMG/Pasted image 20230719222614.png",
     "D&D/IMG/Pasted image 20230719215140.png",
     "D&D/Places/Kingdoms",
-    "D&D/IMG/Pasted image 20230713233430.png",
     "D&D/Calendar",
     "Piffs Family",
     "D&D/IMG",

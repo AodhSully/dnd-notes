@@ -1,21 +1,22 @@
 ### Members
 [[Piff]]
 [[Ollukaar]]
-[[Enva]]
-[[Rusty]]
 [[Py]]
 [[Tardon]]
 [[Aranelle]]
+[[Lister]]
 
 ## Knights
 [[Bryne]]
-[[Wistery]]
+[[Wistery]] - DEAD
 
 ### Creatures
-[[Pinecone]]
+[[Pinecone]] - GONE
 [[Sir Puddlesworth]]
-[[Sssssssteve]]
+[[Sssssssteve]] 
 
 ### Ex-Members
-[[Lilly]] - ex member
-[[Cedric]] - ex member
+[[Lilly]] - poof! Gone
+[[Cedric]] - poof! Gone
+[[Enva]] - GONE! Missing
+[[Rusty]] - DEAD
