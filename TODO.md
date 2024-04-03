@@ -1,5 +1,5 @@
 ### Shift + Space for checkbox
-- [ ] 
+
 - [ ] find the White dragon hoard in the mountains
 - [ ] get a [[White Dragon Potion]] from [[Mildred Hopsockle]]
 - [ ] Free [[Gabel]]
@@ -8,7 +8,11 @@
 - [x] To [[Ryllyren]] - save [[The Piffingtons]]
 - [x] [[Queck]] is on his way to [[Ryllyren]] - Due on 243-5-4
 - [x] Read grandads diary
-- [ ] find [[Bahamut]] in the celestial plane
-- [ ] get to layer 5 of the mountain
-- [ ] 
+- [ ] Find [[Bahamut]] in the celestial plane
+- [ ] Get to layer 5 of the mountain
+- [ ] Smush the horn
+- [ ] Save [[Lister]]s soul
+- [ ] Find the [[Piffingtons]]
+- [ ] find [[Harper]]s family
+- [ ] Find [[Ryder]]s family
 - [ ] 

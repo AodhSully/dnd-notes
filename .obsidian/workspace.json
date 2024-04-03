@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "6277761f17257813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2023/Session 109 - Lunia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "796a9f7da41978e9",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "D&D/Session Notes/2023/Session 109 - Lunia.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "D&D/Session Notes/2023/Session 109 - Lunia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "D&D/Session Notes/2023/Session 109 - Lunia.md"
               }
             }
           },
@@ -197,17 +211,21 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "e7627333aae76735",
+  "active": "6277761f17257813",
   "lastOpenFiles": [
-    "D&D/Session Notes/2023/Session 108 - Reaved.md",
-    "Pasted image 20240327223504.png",
-    "Pasted image 20240327223215.png",
-    "Pasted image 20240327220557.png",
-    "D&D/Items/Oraculum.md",
-    "Pasted image 20240327215222.png",
-    "Well of Many Worlds.md",
-    "D&D/Session Notes/2023/Session 105 - Onboarding.md",
     "2024-02-21.md",
+    "Well of Many Worlds.md",
+    "TODO.md",
+    "nat1.md",
+    "D&D/NPCs/Bad NPC/Helgin.md",
+    "D&D/IMG/Pasted image 20240327220557.png",
+    "D&D/IMG/Pasted image 20240327215222.png",
+    "D&D/Session Notes/2023/Session 109 - Lunia.md",
+    "D&D/Session Notes/2023/Session 108 - Reaved.md",
+    "D&D/IMG/Pasted image 20240327223504.png",
+    "D&D/IMG/Pasted image 20240327223215.png",
+    "D&D/Items/Oraculum.md",
+    "D&D/Session Notes/2023/Session 105 - Onboarding.md",
     "D&D/IMG/Pasted image 20240327212003.png",
     "D&D/IMG/Pasted image 20240327211955.png",
     "D&D/IMG/Pasted image 20240327210054.png",
@@ -215,11 +233,9 @@
     "D&D/Session Notes/2023/Session 104 - The Initial Strike.md",
     "D&D/Session Notes/2023/Session 103 - 36 miles from Gabel.md",
     "D&D/NPCs/Bad NPC/The mouse king.md",
-    "TODO.md",
     "D&D/PCs/Thunderfucks/Pets/Ouoth.md",
     "D&D/IMG/Pasted image 20240228210149.png",
-    "Harper.md",
-    "Helgin.md",
+    "D&D/PCs/Thunderfucks/Harper.md",
     "Kills.md",
     "D&D/Session Notes/2023/Session 102 - And then there were six.md",
     "D&D/Session Notes/2023/Session 101 - To Gable.md",
@@ -233,7 +249,6 @@
     "FuckHeads Kill Count.md",
     "2024-02-14.md",
     "D&D/IMG/Pasted image 20240201150600.png",
-    "D&D/Session Notes/2023/Session 73.md",
     "D&D/Places/Towns & Cities",
     "D&D/Races/Dragons",
     "D&D/PCs/Thunderfucks/Pets",
