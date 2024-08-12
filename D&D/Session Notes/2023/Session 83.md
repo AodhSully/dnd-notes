@@ -8,7 +8,7 @@ In Game Date: 243-03-23
 Notices
 Situation in [[Thraldur]]
 	- [[Porthladd]] has allied with [[Gabel]]
-	- [[Kingdom of Sordun]] is technically no more because idiots don't know what to do without a king
+	- [[D&D/Places/Kingdoms/Kingdom of Sordun]] is technically no more because idiots don't know what to do without a king
 	- they also don't fully agree with the rule of the council of [[Thraldur]]
 
 a blade singer steps in

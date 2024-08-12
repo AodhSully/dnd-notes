@@ -11,17 +11,9 @@
             "id": "e7627333aae76735",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7ceb256b11c0e691",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/PCs/Thunderfucks/Py.md",
+                "file": "D&D/NPCs/Unknown aliegences/King Rowan Silveroak.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,12 +21,12 @@
             }
           },
           {
-            "id": "f3daa68e8c1999a9",
+            "id": "1728b646ec649012",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/NPCs/Bad Beasties/Shadow Dragon.md",
+                "file": "D&D/Calendar/Calendar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,12 +34,12 @@
             }
           },
           {
-            "id": "704464de21c2956d",
+            "id": "6183b8c61500a492",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/NPCs/Bad Beasties/Mormundar.md",
+                "file": "World/Isle of Corin/Sordun/Towns - Places.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -55,12 +47,12 @@
             }
           },
           {
-            "id": "81b60abe312aa507",
+            "id": "6bd821f6aaaf8f29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/NPCs/Bad Beasties/Green Daddy.md",
+                "file": "World/Isle of Corin/Sordun/Towns - Places.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -68,19 +60,72 @@
             }
           },
           {
-            "id": "d961f32ca5abe221",
+            "id": "aca1e5e0f13687af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/NPCs/Gods/The Wanderer.md",
+                "file": "World/Isle of Corin/Sordun/Towns - Places.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "968798dee7765ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/History/History of Nifaalar.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "484ee8bc36f913ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jantle Beaugarde.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac79da6ce2980aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arcane Purge.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "516e7a06ebb4425e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gwelendwyr.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -109,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dragon",
+                "query": "solarin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,8 +179,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,6 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Jantle Beaugarde.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,6 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Jantle Beaugarde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +238,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Jantle Beaugarde.md"
+              }
             }
           },
           {
@@ -241,34 +289,40 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "e7627333aae76735",
+  "active": "484ee8bc36f913ce",
   "lastOpenFiles": [
-    "D&D/PCs/Thunderfucks/Pets/Ouoth.md",
-    "D&D/NPCs/Unknown aliegences/Serilla.md",
-    "D&D/Session Notes/2022/Session 15.md",
-    "D&D/NPCs/Groups/Clan Ptarius.md",
-    "D&D/Session Notes/2022/Session 28.md",
-    "D&D/Races/CinnaHamster.md",
-    "D&D/PCs/Thunderfucks/Py.md",
-    "D&D/Items/Oraculum.md",
-    "D&D/PCs/Thunderfucks/Piff.md",
-    "D&D/NPCs/Bad Beasties/Red Dragon.md",
-    "D&D/NPCs/Gods/Bahamut.md",
-    "D&D/NPCs/Bad Beasties/Barocthaar.md",
-    "D&D/NPCs/Bad Beasties/black daddy.md",
-    "D&D/Places/Casa Del Piffington.md",
-    "D&D/NPCs/Bad Beasties/Dragons.md",
-    "D&D/NPCs/Bad Beasties/Morman Darion.md",
-    "D&D/NPCs/Bad Beasties/Shadow Dragon.md",
+    "Archduke Jantle Beaugarde.md",
+    "Jantle Beaugarde.md",
+    "D&D/History/History of Nifaalar.md",
+    "World/Isle of Corin/Kingdom of Llwyrnau/Wood-Elf Kingdom of Llwyrnau.md",
+    "World/Isle of Corin/Sordun/Kingdom of Sordun.md",
+    "World/Isle of Corin/Sordun/Towns - Places.md",
+    "The Temple.md",
+    "D&D/Places/Towns & Cities/Eldor.md",
+    "D&D/Places/Towns & Cities/Camter.md",
+    "D&D/Places/Towns & Cities/Thraldur.md",
+    "D&D/Places/Mages Sanctum.md",
+    "Arcane Purge.md",
+    "D&D/Law of the land.md",
+    "World/Isle of Corin/Tiirynur/Towns - Places.md",
+    "World/Isle of Corin/Sordun",
+    "World/Isle of Corin/Tiirynur/High-Elf Kingdom of Tiirynur.md",
+    "World/Isle of Corin/Kingdom of Llwyrnau/Towns - Places.md",
+    "World/Isle of Corin/Kingdom of Llwyrnau",
+    "D&D/Places/Towns & Cities/Rocknest.md",
+    "D&D/Places/Towns & Cities/Valar.md",
+    "Gwelendwyr.md",
+    "D&D/Calendar/Calendar.md",
+    "Lore",
+    "D&D/PCs/Thunderfucks/Thunder Fucks.md",
+    "D&D/NPCs/Unknown aliegences/Queen Aspen Solarin.md",
     "D&D/NPCs/Bad Beasties/Mormundar.md",
-    "D&D/NPCs/Bad Beasties/White Dragon.md",
-    "D&D/NPCs/Bad Beasties/Green Dragon.md",
-    "D&D/NPCs/Bad Beasties/Green Daddy.md",
-    "Piffs Family/Grandad.md",
-    "D&D/NPCs/Gods/Raven Queen.md",
-    "D&D/NPCs/Gods/The Wanderer.md",
-    "D&D/NPCs/Gods/The Sentinel.md",
-    "D&D/NPCs/Gods/The Oracle.md",
+    "D&D/Templates/Session.md",
+    "D&D/Templates/NPC.md",
+    "D&D/NPCs/Unknown aliegences/King Rowan Silveroak.md",
+    "World/Isle of Corin/Tiirynur",
+    "World/Isle of Corin",
+    "World",
     "D&D/IMG/Pasted image 20240724214703.png",
     "D&D/IMG/Pasted image 20240724215440.png",
     "D&D/IMG/Pasted image 20240724214829.png",
@@ -282,12 +336,6 @@
     "D&D/IMG/Pasted image 20240327210054.png",
     "D&D/Places/Towns & Cities",
     "D&D/Races/Dragons",
-    "D&D/PCs/Thunderfucks/Pets",
-    "D&D/PCs/Thunderfucks/Ex-Thunderfucks",
-    "D&D/Places/Kingdoms",
-    "D&D/Calendar",
-    "Piffs Family",
-    "D&D/IMG",
-    "D&D/PCs/FarSeekers"
+    "D&D/PCs/Thunderfucks/Pets"
   ]
 }
