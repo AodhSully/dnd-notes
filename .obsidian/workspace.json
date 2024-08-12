@@ -114,7 +114,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Calendar/Calendar.md",
+                "file": "D&D/History/War of the dragons.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcd5f04a6d30bcc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Items/Well of Many Worlds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -196,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Calendar/Calendar.md",
+                "file": "D&D/Items/Well of Many Worlds.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -224,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Calendar/Calendar.md",
+                "file": "D&D/Items/Well of Many Worlds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Calendar/Calendar.md"
+                "file": "D&D/Items/Well of Many Worlds.md"
               }
             }
           },
@@ -286,9 +299,21 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "ca5baab76c7465e9",
+  "active": "36d76cfab0226f73",
   "lastOpenFiles": [
+    "D&D/Session Notes/2023/Session 77 - Big Yin 2 - Part 4.md",
+    "D&D/Session Notes/2023/Session 76 - Big Yin 2 - Part 3.md",
+    "D&D/Session Notes/2023/Session 75 - Big Yin 2 - Part 2.md",
+    "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
+    "D&D/NPCs/Unknown aliegences/Princess Lyara Solarin.md",
+    "D&D/History/Statement on the Queen.md",
+    "D&D/Places/Tiirynur.md",
+    "D&D/Places/Llwyrnau.md",
+    "Piffs Family/Reine des Glaces.md",
+    "Piffs Family/Re Virnuv.md",
+    "Piffs Family/Otto Von Dog-Bark.md",
     "D&D/History/War of the dragons.md",
+    "D&D/Calendar/Calendar.md",
     "D&D/PCs/Thunderfucks/Aranelle.md",
     "D&D/PCs/Thunderfucks/Bryne.md",
     "D&D/PCs/Thunderfucks/Harper.md",
@@ -302,18 +327,6 @@
     "D&D/Items/Ersatz Eye.md",
     "D&D/Items/Drugs.md",
     "D&D/PCs/Thunderfucks/Pets/Sir Puddlesworth.md",
-    "D&D/PCs/Thunderfucks/Pets/Pinecone.md",
-    "D&D/PCs/Thunderfucks/Pets/Ouoth.md",
-    "D&D/Places/Towns & Cities/Beldor.md",
-    "D&D/Places/Towns & Cities/Aracocra Settlement.md",
-    "D&D/Places/Towns & Cities/Ailiris.md",
-    "D&D/Places/Towns & Cities/Abandoned Village.md",
-    "D&D/Places/Adventurers guild.md",
-    "D&D/Places/Big Mountain.md",
-    "D&D/Places/Big Willow.md",
-    "D&D/Places/Casa Del Piffington.md",
-    "D&D/Places/Dormonds Rest.md",
-    "D&D/Places/Dark Forest.md",
     "D&D/IMG/Pasted image 20240724214703.png",
     "D&D/IMG/Pasted image 20240724215440.png",
     "D&D/IMG/Pasted image 20240724214829.png",
