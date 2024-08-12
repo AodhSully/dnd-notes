@@ -1,5 +1,5 @@
 ---
-Race:
+Race: dragon
 Who:
 Where:
 	Town:

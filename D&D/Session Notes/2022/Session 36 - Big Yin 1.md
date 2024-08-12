@@ -10,7 +10,7 @@ dragon can fly
 
 high elf of [[adventurers guild]]
 
-Given to [[enva]]
+Given to [[Enva]]
 mithril breastplate
 bracers of archery
 ever smoking bottle

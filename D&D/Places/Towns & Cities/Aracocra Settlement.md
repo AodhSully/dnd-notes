@@ -1,7 +1,7 @@
 General store
 Food stalls
 Small weapons smith
-Small house with a sign ouside that seems to have a mortar & pestle
+Small house with a sign outside that seems to have a mortar & pestle
 	Shop is small
 	
 

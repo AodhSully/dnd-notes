@@ -45,6 +45,6 @@ spring glued to table
 
 hex
 
-[[enva]] mammy is a minor noble
+[[Enva]] mammy is a minor noble
 
 back to jail

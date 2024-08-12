@@ -1,7 +1,7 @@
 ---
 Race: ~~Human~~ Asimar
-Who:
-Where: 
+Who: Lister
+Where: From Beldor
 	Town: forest near Knights Peak
 	Place: 
 When: 2024-02-21

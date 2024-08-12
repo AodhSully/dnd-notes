@@ -5,7 +5,7 @@ Where:
 	Town: 
 	Place:
 When: 2023-07-26
-Session No:
+Session No: Session 69
 ---
 Info:
 

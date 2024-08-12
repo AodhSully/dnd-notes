@@ -5,7 +5,7 @@ Where:
 	Town:
 	Place:
 When: 2023-07-13
-Session No:
+Session No: Session 20
 ---
 Info:
 

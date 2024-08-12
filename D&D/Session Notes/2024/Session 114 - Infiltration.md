@@ -15,4 +15,6 @@ Got from Olly
 	Hempen rope (50 feet, coiled) 
 	Sack
 
-ready to attack Gable
+ready to attack the fleet around Gable
+
+WE SAVED THE CITY!!!!

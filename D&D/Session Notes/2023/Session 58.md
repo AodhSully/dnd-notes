@@ -27,7 +27,7 @@ snake TRUE
 [[Pinecone]] turned to stone
 
 [[py]] unconsious
-[[enva]] dead
+[[Enva]] dead
 [[Ollukaar]]loses an eye
 
 cepter

@@ -18,5 +18,5 @@ To the Gates!
 Ornate carriage
 curtains on carage windows
 only one carriage
-[[lili]], [[enva]] & [[Pinecone]] in the carriage
+[[lili]], [[Enva]] & [[Pinecone]] in the carriage
 Plebs in front

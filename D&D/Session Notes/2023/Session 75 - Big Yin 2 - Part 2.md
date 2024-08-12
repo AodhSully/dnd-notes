@@ -67,7 +67,7 @@ Theres some mer-people appear after he drops the ship like moses
 Elemental tries to take [[Tardon]] away
 
 [[Ollukaar]] and [[Talfin]] fly away after [[Talfin]] banishes a guard
-[[Tardon]] and [[enva]] fly away from the archers
+[[Tardon]] and [[Enva]] fly away from the archers
 
 [[Ollukaar]] and [[Talfin]] get taken to a barracks
 [[Ollukaar]] gets taken away for questioning

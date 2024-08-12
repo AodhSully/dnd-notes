@@ -32,7 +32,7 @@ Evil guard casts Modify memory
 	tried to get you to come peacefully
 	you would not have that
 	that is when the fight broke out
-	you got captured after [[enva]] went down
+	you got captured after [[Enva]] went down
 
 Olly adresses the crown and drops the head he has
 

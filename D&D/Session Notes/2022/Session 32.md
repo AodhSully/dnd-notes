@@ -44,6 +44,6 @@ pair of engraved bone dice
 staff o defence
 cloak o protection
 
-[[enva]]
+[[Enva]]
 ring o protection
 #shadow [[Shadow Rapier]] has awakened????

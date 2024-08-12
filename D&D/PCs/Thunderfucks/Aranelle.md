@@ -5,7 +5,7 @@ Where: Kingdom of Tiirynur
 	Town: Valar
 	Place: Posh Side of town in a "Small Manor"
 When: 
-Session No: 
+Session No: Session 45
 ---
 Info:
 [[Aranelle]] Lyraly

@@ -14,5 +14,7 @@ aka [[Thunder Elf]]
 [[Enva]] has [[Ersatz Eye]] in her face - cost her 10k not sure she has paid it back
 Owns [[Pinecone]]
 Has a crush on [[Antigone]]
-Is be perused by demons because of [[Antigone]]
-Currently has [[The Book of Vile Darkness]]
+Is being perused by demons because of [[Antigone]]
+Currently missing and has [[The Book of Vile Darkness]]
+Bitch sold a [[Piffingtons]] family heirloom
+
