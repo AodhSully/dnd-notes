@@ -26,7 +26,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 109 - Lunia.md",
+                "file": "D&D/Session Notes/2024/Session 109 - Lunia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57a39c93c82cef0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "game notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfd92e1db82d19fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2024/Session 109 - Lunia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e642a83d06ab9af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2024/Session 112 - The End is Nigh.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73956a4ab3ed0ac3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "ae49e86df1c1fb1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2024/Session 113 - The End is Nigh-er.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +101,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Items/Oraculum.md",
+                "file": "D&D/Session Notes/2024/Session 113 - The End is Nigh-er.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca5baab76c7465e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Session Notes/2024/Session 114 - Infiltration.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -76,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "orac",
+                "query": "ring of spell storing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 109 - Lunia.md",
+                "file": "D&D/Session Notes/2024/Session 114 - Infiltration.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 109 - Lunia.md",
+                "file": "D&D/Session Notes/2024/Session 114 - Infiltration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Session Notes/2023/Session 109 - Lunia.md"
+                "file": "D&D/Session Notes/2024/Session 114 - Infiltration.md"
               }
             }
           },
@@ -211,44 +286,45 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "6277761f17257813",
+  "active": "ca5baab76c7465e9",
   "lastOpenFiles": [
-    "2024-02-21.md",
-    "Well of Many Worlds.md",
-    "TODO.md",
-    "nat1.md",
-    "D&D/NPCs/Bad NPC/Helgin.md",
+    "D&D/Session Notes/2021/Session 1.md",
+    "D&D/Session Notes/2021/Session 2.md",
+    "D&D/Session Notes/2024/Session 114 - Infiltration.md",
+    "D&D/Session Notes/2024/Session 113 - The End is Nigh-er.md",
+    "D&D/PCs/Deckheads/Relyth.md",
+    "D&D/Items/Oraculum.md",
+    "D&D/Session Notes/2024/Session 97 - Retreat (Question).md",
+    "D&D/Session Notes/2023/Session 96 - Mission Improbable.md",
+    "D&D/Session Notes/2023/Session 95.md",
+    "D&D/Session Notes/2023/Session 86 - Cave Solutions For Dummies.md",
+    "D&D/Session Notes/2023/Session 87 - Do not go gentle into that good night....md",
+    "D&D/Session Notes/2023/Session 88 - Summit Deplomacy.md",
+    "D&D/Session Notes/2023/Session 89 - Summit of the Inbetween.md",
+    "D&D/Session Notes/2023/Session 90 - Summit of the Inbetween.md",
+    "D&D/Session Notes/2023/Session 91 - One minute to midnight.md",
+    "D&D/Session Notes/2023/Session 92 - War.md",
+    "D&D/Session Notes/2023/Session 93 - Gable.md",
+    "D&D/Session Notes/2024/Session 109 - Lunia.md",
+    "D&D/Session Notes/2024/Session 112 - The End is Nigh.md",
+    "D&D/Session Notes/2022/Session 44.md",
+    "D&D/Session Notes/2023/Session 65.md",
+    "D&D/Session Notes/2023/Session 77 - Big Yin 2 - Part 4.md",
+    "Pasted image 20240724215440.png",
+    "Pasted image 20240724214829.png",
+    "Pasted image 20240724214703.png",
+    "D&D/Session Notes/2023/Session 85.md",
+    "D&D/Session Notes/2023/Session 84.md",
+    "mumsie.md",
+    "game notes.md",
+    "D&D/Session Notes/2024",
     "D&D/IMG/Pasted image 20240327220557.png",
     "D&D/IMG/Pasted image 20240327215222.png",
-    "D&D/Session Notes/2023/Session 109 - Lunia.md",
-    "D&D/Session Notes/2023/Session 108 - Reaved.md",
     "D&D/IMG/Pasted image 20240327223504.png",
     "D&D/IMG/Pasted image 20240327223215.png",
-    "D&D/Items/Oraculum.md",
-    "D&D/Session Notes/2023/Session 105 - Onboarding.md",
     "D&D/IMG/Pasted image 20240327212003.png",
     "D&D/IMG/Pasted image 20240327211955.png",
     "D&D/IMG/Pasted image 20240327210054.png",
-    "D&D/IMG/Pasted image 20240327205033.png",
-    "D&D/Session Notes/2023/Session 104 - The Initial Strike.md",
-    "D&D/Session Notes/2023/Session 103 - 36 miles from Gabel.md",
-    "D&D/NPCs/Bad NPC/The mouse king.md",
-    "D&D/PCs/Thunderfucks/Pets/Ouoth.md",
-    "D&D/IMG/Pasted image 20240228210149.png",
-    "D&D/PCs/Thunderfucks/Harper.md",
-    "Kills.md",
-    "D&D/Session Notes/2023/Session 102 - And then there were six.md",
-    "D&D/Session Notes/2023/Session 101 - To Gable.md",
-    "D&D/PCs/Thunderfucks/Lister.md",
-    "D&D/Session Notes/2023/Session 99 - Death.md",
-    "D&D/Session Notes/2023/Session 100 - Divine Intervention.md",
-    "D&D/PCs/Thunderfucks/Ryder.md",
-    "Untitled 1.md",
-    "D&D/PCs/Thunderfucks/Thunder Fucks.md",
-    "D&D/PCs/Thunderfucks/Tardon.md",
-    "FuckHeads Kill Count.md",
-    "2024-02-14.md",
-    "D&D/IMG/Pasted image 20240201150600.png",
     "D&D/Places/Towns & Cities",
     "D&D/Races/Dragons",
     "D&D/PCs/Thunderfucks/Pets",
@@ -257,7 +333,6 @@
     "D&D/Calendar",
     "Piffs Family",
     "D&D/IMG",
-    "D&D/PCs/FarSeekers",
-    "D&D/plugins/fantasy-calendar/data.json"
+    "D&D/PCs/FarSeekers"
   ]
 }
