@@ -11,9 +11,17 @@
             "id": "e7627333aae76735",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ceb256b11c0e691",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "D&D/PCs/Thunderfucks/Py.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +29,12 @@
             }
           },
           {
-            "id": "6277761f17257813",
+            "id": "f3daa68e8c1999a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Session Notes/2024/Session 109 - Lunia.md",
+                "file": "D&D/NPCs/Bad Beasties/Shadow Dragon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +42,12 @@
             }
           },
           {
-            "id": "57a39c93c82cef0a",
+            "id": "704464de21c2956d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game notes.md",
+                "file": "D&D/NPCs/Bad Beasties/Mormundar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +55,12 @@
             }
           },
           {
-            "id": "bfd92e1db82d19fc",
+            "id": "81b60abe312aa507",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Session Notes/2024/Session 109 - Lunia.md",
+                "file": "D&D/NPCs/Bad Beasties/Green Daddy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,95 +68,19 @@
             }
           },
           {
-            "id": "5e642a83d06ab9af",
+            "id": "d961f32ca5abe221",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Session Notes/2024/Session 112 - The End is Nigh.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73956a4ab3ed0ac3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "ae49e86df1c1fb1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Session Notes/2024/Session 113 - The End is Nigh-er.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "796a9f7da41978e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Session Notes/2024/Session 113 - The End is Nigh-er.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca5baab76c7465e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/History/War of the dragons.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcd5f04a6d30bcc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Items/Well of Many Worlds.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d3a0860b322eecc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Templates/NPC.md",
+                "file": "D&D/NPCs/Gods/The Wanderer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ring of spell storing",
+                "query": "dragon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Templates/NPC.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -250,7 +182,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Templates/NPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "D&D/Templates/NPC.md"
-              }
+              "state": {}
             }
           },
           {
@@ -312,34 +241,34 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "3d3a0860b322eecc",
+  "active": "e7627333aae76735",
   "lastOpenFiles": [
-    "D&D/Templates/Session.md",
-    "D&D/Templates/NPC.md",
-    "D&D/Session Notes/2024/Session 115 - Ship, Sea, Shore.md",
-    "Untitled.md",
-    "D&D/Items/Well of Many Worlds.md",
-    "D&D/Session Notes/2023/Session 77 - Big Yin 2 - Part 4.md",
-    "D&D/Session Notes/2023/Session 76 - Big Yin 2 - Part 3.md",
-    "D&D/Session Notes/2023/Session 75 - Big Yin 2 - Part 2.md",
-    "D&D/Session Notes/2023/Session 74 - Big Yin 2 - Part 1.md",
-    "D&D/NPCs/Unknown aliegences/Princess Lyara Solarin.md",
-    "D&D/History/Statement on the Queen.md",
-    "D&D/Places/Tiirynur.md",
-    "D&D/Places/Llwyrnau.md",
-    "Piffs Family/Reine des Glaces.md",
-    "Piffs Family/Re Virnuv.md",
-    "Piffs Family/Otto Von Dog-Bark.md",
-    "D&D/History/War of the dragons.md",
-    "D&D/Calendar/Calendar.md",
-    "D&D/PCs/Thunderfucks/Aranelle.md",
-    "D&D/PCs/Thunderfucks/Bryne.md",
-    "D&D/PCs/Thunderfucks/Harper.md",
-    "D&D/PCs/Thunderfucks/Ollukaar.md",
-    "D&D/PCs/Thunderfucks/Piff.md",
-    "D&D/PCs/Thunderfucks/Ryder.md",
+    "D&D/PCs/Thunderfucks/Pets/Ouoth.md",
+    "D&D/NPCs/Unknown aliegences/Serilla.md",
+    "D&D/Session Notes/2022/Session 15.md",
+    "D&D/NPCs/Groups/Clan Ptarius.md",
+    "D&D/Session Notes/2022/Session 28.md",
+    "D&D/Races/CinnaHamster.md",
     "D&D/PCs/Thunderfucks/Py.md",
-    "D&D/PCs/Thunderfucks/Lister.md",
+    "D&D/Items/Oraculum.md",
+    "D&D/PCs/Thunderfucks/Piff.md",
+    "D&D/NPCs/Bad Beasties/Red Dragon.md",
+    "D&D/NPCs/Gods/Bahamut.md",
+    "D&D/NPCs/Bad Beasties/Barocthaar.md",
+    "D&D/NPCs/Bad Beasties/black daddy.md",
+    "D&D/Places/Casa Del Piffington.md",
+    "D&D/NPCs/Bad Beasties/Dragons.md",
+    "D&D/NPCs/Bad Beasties/Morman Darion.md",
+    "D&D/NPCs/Bad Beasties/Shadow Dragon.md",
+    "D&D/NPCs/Bad Beasties/Mormundar.md",
+    "D&D/NPCs/Bad Beasties/White Dragon.md",
+    "D&D/NPCs/Bad Beasties/Green Dragon.md",
+    "D&D/NPCs/Bad Beasties/Green Daddy.md",
+    "Piffs Family/Grandad.md",
+    "D&D/NPCs/Gods/Raven Queen.md",
+    "D&D/NPCs/Gods/The Wanderer.md",
+    "D&D/NPCs/Gods/The Sentinel.md",
+    "D&D/NPCs/Gods/The Oracle.md",
     "D&D/IMG/Pasted image 20240724214703.png",
     "D&D/IMG/Pasted image 20240724215440.png",
     "D&D/IMG/Pasted image 20240724214829.png",

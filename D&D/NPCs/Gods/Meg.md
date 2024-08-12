@@ -1,7 +1,7 @@
 Where:
 When: First met in [[Session 2]]
 
-
+#God 
 [[Deck of Many Things]]
 #chaotic
 in the bar

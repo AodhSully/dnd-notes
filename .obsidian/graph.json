@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
   "search": "-session ",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -64,10 +64,17 @@
       }
     },
     {
-      "query": "lych",
+      "query": "Deckheads",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "#God",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
       }
     }
   ],
@@ -77,10 +84,10 @@
   "nodeSizeMultiplier": 1.80989583333333,
   "lineSizeMultiplier": 0.967708333333333,
   "collapse-forces": false,
-  "centerStrength": 0.765625,
-  "repelStrength": 20,
+  "centerStrength": 0.484375,
+  "repelStrength": 14.6875,
   "linkStrength": 1,
-  "linkDistance": 125,
-  "scale": 0.38825798432733505,
+  "linkDistance": 69,
+  "scale": 0.14089391854274,
   "close": false
 }

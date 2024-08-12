@@ -1,2 +1,2 @@
-[[Ollukaar]]s [[God]] 
+[[Ollukaar]]s #God 
 is a platinum dragon

@@ -12,7 +12,7 @@ Info:
 
 
 [[Ollukaar]] does not take sugar
-Is a member of clan [[Ptarius]]
+Is a member of clan [[Clan Ptarius]]
 Lactose intolerant
 Does not listen
 A little bit racist - Benevolent Racist

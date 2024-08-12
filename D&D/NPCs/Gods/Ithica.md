@@ -8,7 +8,7 @@ When: 2023-08-16
 Session No: 87
 ---
 Info:
-
+#God 
 [[Charlie]]s pattron 
 aka [[He Who walks on the wind]]
 
